@@ -1,2 +1,2 @@
-- [Niklas Rudolph](https://twitter.com/TheOrganicer)
+- [Peter Schneider](https://twitter.com/schneipe)
 - [Patricia Ennenbach](https://twitter.com/pen1710)

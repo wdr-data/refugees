@@ -1,17 +1,17 @@
 ---
-title: "Opern-Spielpläne in NRW: tot und männlich"
-description: WDR 3 Datenanalyse der Opern-Spielzeit 2018/2019
-author: Niklas Rudolph, Patricia Ennenbach
-pub_date: "2019-07-15"
-heroImage: "richard-wagner-und-freunde.jpg"
-heroAlt: "Richard Wagner und seine Freunde"
-heroCredit: "Richard Wagner und seine Freunde"
-sharingImageFacebook: "richard-wagner-und-freunde_facebook.jpg"
-sharingImageTwitter: "richard-wagner-und-freunde_twitter.jpg"
+title: "Was schätzen Sie: Geflüchtete heute"
+description: Überprüfen sie ihre Annahmen über Geflüchtete in Deutschland
+author: Peter Schneider, Patricia Ennenbach
+pub_date: "2020-05-13"
+heroImage: "1_bodrum.jpg"
+heroAlt: "Ein toter Junge am Strand in Bodrum"
+heroCredit: ""
+sharingImageFacebook: ""
+sharingImageTwitter: ""
 cg1: "WDR"
 cg2: "Data"
-cg3: "WDR 3"
-cg4: "Opern-Spielpläne in NRW: tot und männlich"
+cg3: "Cosmo"
+cg4: "Was schätzen Sie: Geflüchtete heute"
 ---
 
 import DataWrapper from '../components/datawrapper/datawrapper.jsx'
