@@ -43,7 +43,7 @@ Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
 
 Was schätzen Sie: Wie viele Asylanträge wurden in Deutschland gestellt? Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
 
-// <YDILine name="antraege" /> Line-Chart folgt
+<YDILine name="test_line" />
 
 Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet.
 
@@ -58,7 +58,7 @@ Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lo
 <figcaption style="text-align: end;">Im Bus</figcaption>
 </figure>
 
-// <YDILine name="abschiebungen" /> Line-Chart folgt
+<YDILine name="test_line" />
 
 Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet:
 

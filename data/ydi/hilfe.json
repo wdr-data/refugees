@@ -1,0 +1,17 @@
+{
+  "key": "hilfe",
+  "heading": "Was schätzen Sie: Wie hoch war der Anteil der Deutschen, die sich 2015 bis 2017 für Flüchtlinge engagiert haben?",
+  "subheading": "So sieht ein Subheading aus",
+  "result": "**Über die Hälfte der Deutschen hat sich aktiv in der Hilfe für Geflüchtete engagiert [Quelle](https://www.bmfsfj.de/blob/122010/d35ec9bf4a940ea49283485db4625aaf/engagement-in-der-fluechlingshilfe-data.pdf)**",
+  "accessibility": "55 % gaben bei einer repräsentativen Umfrage des Allensbach-Instituts an, sich für Flüchtlinge eingesetzt zu haben: Durch aktive Hilfe, Briefe an PolitikerInnen oder Spenden.",
+  "source": "https://www.bmfsfj.de/blob/122010/d35ec9bf4a940ea49283485db4625aaf/engagement-in-der-fluechlingshilfe-data.pdf",
+  "knownData": [],
+  "unknownData": {
+    "label": "Engagement für Geflüchtete",
+    "value": 55
+  },
+  "maxY": 100,
+  "initialGuess": 10,
+  "unit": "%",
+  "precision": 1
+}

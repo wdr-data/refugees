@@ -1,0 +1,26 @@
+{
+  "key": "arbeit",
+  "heading": "Was schätzen Sie: Wie hoch ist die Erwerbstätigenquote der Geflüchteten?",
+  "subheading": "Gemeint sind Beschäftigte aus den Asylherkunftsländern Afghanistan, Eritrea, Irak, Iran, Nigeria, Pakistan, Somalia, Syrien",
+  "result": "**Gut verdienende Frauen sind in Deutschland in der Minderheit. Unter den verheirateten Frauen verdienen sogar nur 3,4 % mehr als 2.500 Euro netto. Das liegt neben der Berufswahl vor allem daran, welche Rollenverteilung in Partnerschaften gelebt wird. [Quelle](https://statistik.arbeitsagentur.de/Statischer-Content/Statistische-Analysen/Statistische-Sonderberichte/Generische-Publikationen/Auswirkungen-der-Migration-auf-den-Arbeitsmarkt.pdf)**",
+  "accessibility": "Während 23,2 Prozent der Männern zwischen 30 und 50 Jahren ein Einkommen von mehr als 2.500 Euro haben, sind es nur 5,1 Prozent der Frauen.",
+  "source": "https://statistik.arbeitsagentur.de/Statischer-Content/Statistische-Analysen/Statistische-Sonderberichte/Generische-Publikationen/Auswirkungen-der-Migration-auf-den-Arbeitsmarkt.pdf",
+  "knownData": [
+    {
+      "label": "Deutsche",
+      "value": 63.9
+    },
+    {
+      "label": "Ausländer",
+      "value": 51.9
+    }
+  ],
+  "unknownData": {
+    "label": "Asyl",
+    "value": 36
+  },
+  "maxY": 80,
+  "initialGuess": 20,
+  "unit": "%",
+  "precision": 1
+}
