@@ -3,15 +3,16 @@ title: "Was schätzen Sie: Geflüchtete heute"
 description: Überprüfen sie ihre Annahmen über Geflüchtete in Deutschland
 author: Peter Schneider, Patricia Ennenbach
 pub_date: "2020-05-13"
-heroImage: "1_bodrum.jpg"
-heroAlt: "Ein toter Junge am Strand in Bodrum"
+heroImage: "collage.png"
+heroAlt: "Collage aus 5 Bildern zum Thema Gefüchtete"
 heroCredit: ""
 sharingImageFacebook: ""
 sharingImageTwitter: ""
 cg1: "WDR"
 cg2: "Data"
-cg3: "Cosmo"
-cg4: "Was schätzen Sie: Geflüchtete heute"
+cg3: "WDR4You"
+cg4: "DieStory"
+cg5: "Was schätzen Sie: Geflüchtete heute"
 ---
 
 import DataWrapper from '../components/datawrapper/datawrapper.jsx'
@@ -21,32 +22,84 @@ import Sharing from '../components/sharing/sharing.jsx'
 import SemioticBarChart from '../components/semiotic_barChart/semiotic_barChart.jsx'
 import WdrPlayer from '../components/video/video.jsx'
 import YDIBar from '../components/ydi/ydiBar.jsx'
+import YDILine from '../components/ydi/ydiLine.jsx'
 
-# Opern-Spielpläne in NRW: tot und männlich
+# Was schätzen Sie: Geflüchtete gestern und heute
 
-## Wir haben die Opern-Spielpläne in NRW unter die Lupe genommen. Das Ergebnis: NRW ist ein Opern-Paradies. Aber lebende Komponisten haben kaum eine Chance, auf die Spielpläne zu kommen. Und Komponistinnen gar keine.
+## WDR4YOU und die Story haben sich angeguckt, was aus Geflüchteten in Deutschland geworden ist
 
-Waren Sie in der letzten Spielzeit in der Oper? Dann haben Sie höchstwahrscheinlich Papageno, die Knusperhexe oder Leporello auf der Bühne erlebt. Denn diese Opern und Operetten standen am häufigsten auf dem Spielplan:
+Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet:
 
-## Beispiel WSS Bar Chart:
+## Beispiel WSS Line Chart:
 
-<YDIBar name="test"/>
+<YDILine name="test_line"/>
 
-## Beispiel 2 WSS Bar Chart:
+## 1. ANTRÄGE
 
-<YDIBar name="test01"/>
+<figure role="group">
+<img src="4_wegscheid.jpg" alt="Geflüchtete hinter Polizei-Auto" />
+<figcaption style="text-align: end;">Auf der Flucht</figcaption>
+</figure>
 
-## Beispiel 3 WSS Bar Chart:
+Was schätzen Sie: Wie viele Asylanträge wurden in Deutschland gestellt? Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
 
-<YDIBar name="test02"/>
+// <YDILine name="antraege" /> Line-Chart folgt
 
-## Beispiel regulärer Bar Chart:
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet.
 
-<SemioticBarChart/>
+<Quote author="Angela Merkel, Bundeskanzlerin">Wir schaffen das.</Quote>
 
-## Beispiel Video-Player:
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet:
+
+## 2. ABSCHIEBUNGEN
+
+<figure role="group">
+<img src="5_clausnitz.jpg" alt="Bus" />
+<figcaption style="text-align: end;">Im Bus</figcaption>
+</figure>
+
+// <YDILine name="abschiebungen" /> Line-Chart folgt
+
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet:
+
+## 3. HILFE
+
+<figure role="group">
+<img src="2_münchen.jpg" alt="Bus" />
+<figcaption style="text-align: end;">Im Bus</figcaption>
+</figure>
+
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
 
 <WdrPlayer videoSrc="https://media.w3.org/2010/05/sintel/trailer_hd.mp4" videoPoster="https://www1.wdr.de/fernsehen/abenteuer-erde/kuestenotter-100~_v-gseapremiumxl.jpg" />
+
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
+
+<YDIBar name="hilfe"/>
+
+## 4. KINDER
+
+<figure role="group">
+<img src="1_bodrum.jpg" alt="Bus" />
+<figcaption style="text-align: end;">Im Bus</figcaption>
+</figure>
+
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
+
+<YDIBar name="kinder"/>
+
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
+
+## ARBEIT
+
+<figure role="group">
+<img src="3_berlin.JPG" alt="Bus" />
+<figcaption style="text-align: end;">Im Bus</figcaption>
+</figure>
+
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
+
+<YDIBar name="test02"/>
 
 mehr toller text
 
