@@ -48,7 +48,7 @@ Die Tragödie sorgt dafür, dass die Flüchtlingskrise plötzlich nicht mehr abs
 
 <YDIBar name="kinder"/>
 
-Beim Versuch, mit Booten das Mittelmeer zu überqueren, sterben auch heute immer wieder Menschen.
+Beim Versuch, mit Booten das Mittelmeer zu überqueren, sterben auch heute immer wieder Menschen. Im Jahr 2015 waren es 3.771 Tote, ein Jahr später sogar mehr als 5000.
 
 <figure role="group">
     <DataWrapper
@@ -56,10 +56,7 @@ Beim Versuch, mit Booten das Mittelmeer zu überqueren, sterben auch heute immer
         title="Fluchtroute Mittelmeer: Ankünfte und Tote"
         src="//datawrapper.dwcdn.net/25FkR/1/"
     />
-
 </figure>
-
-Im Jahr 2015 waren es 3.771 Tote, ein Jahr später sogar mehr als 5000.
 
 ### Willkommen in Deutschland
 
@@ -68,11 +65,7 @@ Im Jahr 2015 waren es 3.771 Tote, ein Jahr später sogar mehr als 5000.
 <figcaption style="text-align: end;">Hilfe für Geflüchtete in München 2015</figcaption>
 </figure>
 
-Viele Menschen engagieren sich in der Flüchtlingshilfe. Eine davon ist Nicole Kopp aus München, die 2015 am Münchener Hauptbahnhof Teddybären an Flüchtlingskinder verteilt.
-
-<Quote author="Nicole Kopp, Flüchtlingshelferin">Jedes Mal, wenn ich das Bild sehe, fühle ich mich glücklich.</Quote>
-
-"Weil ich an dem Tag wusste, ich kann helfen“, erinnert sich Nicole Kopp.
+Viele Menschen engagieren sich in der Flüchtlingshilfe. Eine davon ist Nicole Kopp aus München, die 2015 am Münchener Hauptbahnhof Teddybären an Flüchtlingskinder verteilt. "Jedes Mal, wenn ich das Bild sehe, fühle ich mich glücklich. Weil ich an dem Tag wusste, ich kann helfen“, erinnert sich Nicole Kopp.
 
 <WdrPlayer videoSrc="https://media.w3.org/2010/05/sintel/trailer_hd.mp4" videoPoster="https://www1.wdr.de/fernsehen/abenteuer-erde/kuestenotter-100~_v-gseapremiumxl.jpg" />
 
@@ -89,7 +82,7 @@ Heute werden Helfer wie sie spöttisch als „Bahnhofsklatscher“ bezeichnet. S
 
 Am 4. September 2015 werden Tausende Geflüchtete von Ungarn aus in Richtung Österreich weitergeleitet. Daraufhin fällt die Bundesregierung die Entscheidung, die Grenzen nicht zu schließen und die Menschen aufzunehmen.
 
-Ihr Begründung – „Deutschland ist ein starkes Land … wir schaffen das“ – geht in die Geschichtsbücher ein. Ebenso wie das Bild von Angela Merkel mit erhobenem Daumen auf dem Selfie von Anas Modamani, das am 10. September in Potsdam entsteht.
+Ihr Begründung – "Deutschland ist ein starkes Land … wir schaffen das" – geht in die Geschichtsbücher ein. Ebenso wie das Bild von Angela Merkel mit erhobenem Daumen auf dem Selfie von Anas Modamani, das am 10. September in Potsdam entsteht.
 
 <WdrPlayer videoSrc="https://media.w3.org/2010/05/sintel/trailer_hd.mp4" videoPoster="https://www1.wdr.de/fernsehen/abenteuer-erde/kuestenotter-100~_v-gseapremiumxl.jpg" />
 

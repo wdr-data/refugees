@@ -15,7 +15,7 @@
     "value": 170492
   },
   "maxY": 500000,
-  "initialGuess": 10,
+  "initialGuess": 100000,
   "unit": "",
-  "precision": 1
+  "precision": 0
 }

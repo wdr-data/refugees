@@ -1,6 +1,6 @@
 {
   "key": "arbeit",
-  "heading": "Was schätzen Sie: Wie hoch ist die Erwerbstätigenquote anerkannter Flüchtlinge?",
+  "heading": "Was schätzen Sie: Wie hoch ist die Beschäftigungsquote der Geflüchteten?",
   "subheading": "Gemeint sind Beschäftigte aus den Asylherkunftsländern Afghanistan, Eritrea, Irak, Iran, Nigeria, Pakistan, Somalia, Syrien.",
   "result": "Etwa ein Drittel der Geflüchteten aus den Asylherkunftsländern ist mittlerweile in den Arbeitsmarkt integriert, die Beschäftigungsquote liegt bei 29,8 Prozent (Stand: Februar 2020). Zum Vergleich: Die Quote von Deutschen liegt bei 63 Prozent, die von Ausländern insgesamt bei 45,8 Prozent. \n\nWie die Bundesagentur für Arbeit mitteilt, hängt die niedrige Quote unter anderem damit zusammen, dass eine Arbeit nach der Anerkennung des Flüchtlingsschutzes erst zeitverzögert stattfindet. Im Vergleich zum Vorjahr erhöhte sich die Quote immerhin um 4,1 Prozentpunkte. [Quelle](https://statistik.arbeitsagentur.de/Statischer-Content/Statistische-Analysen/Statistische-Sonderberichte/Generische-Publikationen/Auswirkungen-der-Migration-auf-den-Arbeitsmarkt.pdf)",
   "accessibility": "Die Beschäftigungsquote bei anerkannten Flüchtlingen aus den Asylherkunftsländern Afghanistan, Eritrea, Irak, Iran, Nigeria, Pakistan, Somalia, Syrien liegt bei 29,8 Prozent.",
@@ -8,16 +8,16 @@
   "knownData": [
     {
       "label": "Deutsche",
-      "value": 63.9
+      "value": 63
     },
     {
       "label": "Ausländer",
-      "value": 51.9
+      "value": 45.8
     }
   ],
   "unknownData": {
     "label": "Anerkannte Flüchtlinge",
-    "value": 36
+    "value": 29.8
   },
   "maxY": 80,
   "initialGuess": 20,
