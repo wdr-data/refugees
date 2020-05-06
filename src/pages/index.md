@@ -24,9 +24,9 @@ import WdrPlayer from '../components/video/video.jsx'
 import YDIBar from '../components/ydi/ydiBar.jsx'
 import YDILine from '../components/ydi/ydiLine.jsx'
 
-# Was schätzen Sie: Zahlen zu Geflüchteten in Deutschland
-
 ## Fünf Jahre nach "Wir schaffen das"
+
+# Was schätzen Sie: Zahlen zu Geflüchteten in Deutschland
 
 Fünf Bilder, die für die so genannte Flüchtlingskrise in Deutschland stehen. Fünf Schlaglichter, hinter denen spannende Geschichten und Menschen stecken. Und fünf Jahre nach „Wir schaffen das“ – dem mittlerweile geflügelten Wort von Bundeskanzlerin Angela Merkel.
 
@@ -37,7 +37,7 @@ Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den P
 ### Alan Kurdi - der tote Junge am Strand
 
 <figure role="group">
-<img src="1_bodrum.jpg" alt="Ein toter Junge liegt am Strand der türkischen Küste." />
+<img src="collage_01.png" alt="Ein toter Junge liegt am Strand der türkischen Küste." />
 <figcaption style="text-align: end;">2015 geht das Bild eines toten Jungen am Strand um die Welt</figcaption>
 </figure>
 
