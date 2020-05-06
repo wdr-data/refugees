@@ -11,7 +11,7 @@
     "value": 25.1
   },
   "maxY": 100,
-  "initialGuess": 10,
+  "initialGuess": 20,
   "unit": "%",
   "precision": 1
 }

@@ -1,13 +1,13 @@
 ---
 title: "Was schätzen Sie: Zahlen zu Geflüchteten in Deutschland"
-description: Überprüfen sie ihre Annahmen über Geflüchtete in Deutschland
+description: Fünf Jahre nach "Wir schaffen das" - Überprüfen sie ihre Annahmen über Geflüchtete in Deutschland
 author: Peter Schneider, Patricia Ennenbach
 pub_date: "2020-05-13"
-heroImage: "collage.png"
+heroImage: "1.jpg"
 heroAlt: "Collage aus 5 Bildern zum Thema Gefüchtete"
-heroCredit: ""
-sharingImageFacebook: ""
-sharingImageTwitter: ""
+heroCredit: "Collage WDR"
+sharingImageFacebook: "facebook.jpg"
+sharingImageTwitter: "twitter.jpg"
 cg1: "WDR"
 cg2: "Data"
 cg3: "WDR4You"
@@ -28,7 +28,7 @@ import YDILine from '../components/ydi/ydiLine.jsx'
 
 # Was schätzen Sie: Zahlen zu Geflüchteten in Deutschland
 
-Fünf Bilder, die für die so genannte Flüchtlingskrise in Deutschland stehen. Fünf Schlaglichter, hinter denen spannende Geschichten und Menschen stecken. Und fünf Jahre nach „Wir schaffen das“ – dem mittlerweile geflügelten Wort von Bundeskanzlerin Angela Merkel.
+**Fünf Bilder, die für die so genannte Flüchtlingskrise in Deutschland stehen. Fünf Schlaglichter, hinter denen spannende Geschichten und Menschen stecken. Und fünf Jahre „Wir schaffen das“ – dem mittlerweile geflügelten Wort von Bundeskanzlerin Angela Merkel.**
 
 Über Geflüchtete wurde viel geschrieben, man erinnert sich an ikonische Bilder – aber wie steht’s mit den nackten Zahlen? Was ist „gefühlte“ Wahrheit und was steht wirklich in den Statistiken?
 
@@ -37,7 +37,7 @@ Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den P
 ### Alan Kurdi - der tote Junge am Strand
 
 <figure role="group">
-<img src="collage_01.png" alt="Ein toter Junge liegt am Strand der türkischen Küste." />
+<img src="2.jpg" alt="Ein toter Junge liegt am Strand der türkischen Küste." />
 <figcaption style="text-align: end;">2015 geht das Bild eines toten Jungen am Strand um die Welt</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ Im Jahr 2015 waren es 3.771 Tote, ein Jahr später sogar mehr als 5000.
 ### Willkommen in Deutschland
 
 <figure role="group">
-<img src="2_münchen.jpg" alt="Eine Flüchtlingshelferin verteilt 2015 am Münchener Hauptbahnhof Teddybären." />
+<img src="3.jpg" alt="Eine Flüchtlingshelferin verteilt 2015 am Münchener Hauptbahnhof Teddybären." />
 <figcaption style="text-align: end;">Hilfe für Geflüchtete in München 2015</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Heute werden Helfer wie sie spöttisch als „Bahnhofsklatscher“ bezeichnet. S
 ### „Wir schaffen das“ – Selfie mit der Kanzlerin
 
 <figure role="group">
-<img src="3_berlin.JPG" alt="Angela Merkel mit erhobenem Daumen auf einem Selfie mit Anas Modamani." />
+<img src="4.jpg" alt="Angela Merkel mit erhobenem Daumen auf einem Selfie mit Anas Modamani." />
 <figcaption style="text-align: end;">Die Bundeskanzlerin hebt den Daumen</figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ Zwei Jahre nach dem Zuzug liegt die Erwerbstätigenquote bei 17 Prozent, nach f�
 ### Wegscheid - Kapazitäten an der Grenze
 
 <figure role="group">
-<img src="4_wegscheid.jpg" alt="Eine lange Schlange Geflüchteter hinter einem Polizeiauto." />
+<img src="5.jpg" alt="Eine lange Schlange Geflüchteter hinter einem Polizeiauto." />
 <figcaption style="text-align: end;">Flucht hinter der Polizei</figcaption>
 </figure>
 
@@ -133,15 +133,19 @@ Zum Stichtag 30. Juni 2019 lebten etwa 1,3 Millionen Menschen in Deutschland, di
 ### Clausnitz - Ankunft in der Flüchtlingsunterkunft
 
 <figure role="group">
-<img src="5_clausnitz.jpg" alt="Bus" />
-<figcaption style="text-align: end;">Im Bus</figcaption>
+<img src="6.jpg" alt="Bus" />
+<figcaption style="text-align: end;">Ankunft im Erzgebirge</figcaption>
 </figure>
 
-Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
+Vor allem in Ostdeutschland formiert sich 2015 und 2016 Widerstand gegen die Aufnahme von Geflüchteten. Das bekamen unter anderem die Menschen zu spüren, die am 18. Februar 2016 in Clausnitz im Erzgebirge ankamen. An der Flüchtlingsunterkunft wurden sie von Protestierenden erwartet.
 
-<YDILine name="test_line" />
+Die Unterbringung der Geflüchteten war 2015/16 ein Problem vor allem für die Kommunen. Die Verteilung auf die einzelnen Bundesländer orientiert sich am sogenannten Königssteiner Schlüssel. Je nach Größe und Wirtschaftskraft des Landes werden die Geflüchteten-Kontingente auf die Länder verteilt. NRW liegt 2019 demnach bei 21,1 Prozent, Bayern bei 15,6 Prozent. Sachsen erhält fünf Prozent, Thüringen 2,6 Prozent.
 
-Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
+Der Ablauf der Unterbringung ist geregelt. Asylsuchende werden zunächst in einer Erstaufnahmeunterkunft untergebracht. Nach spätestens sechs Monaten soll der Aufenthalt dort enden und die Geflüchteten werden auf Gemeinschaftunterkünfte verteilt oder in einer Wohnung untergebracht. Dafür sind die Stadt- und Landkreise zuständig.
+
+<YDIBar name="unterkuenfte" />
+
+Auch hier gibt es deutliche Unterschiede zwischen den einzelnen Bundesländern.
 
 <figure role="group">
     <DataWrapper

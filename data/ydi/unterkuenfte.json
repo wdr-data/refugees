@@ -1,0 +1,21 @@
+{
+  "key": "unterkuenfte",
+  "heading": "Was schätzen Sie: Wie viele Geflüchtete leben in Deutschland in Gemeinschaftsunterkünften?",
+  "result": "Nach Angaben des Statistischen Bundesamts lebten von den 411.211 Asylbewerbern insgesamt 170.492 in Gemeinschaftsunterkünften. Das sind 41,5 Prozent. Jeder zehnte Asylbewerber lebt demnach in Aufnahmeeinrichtungen.",
+  "accessibility": "...",
+  "source": "https://www.bmfsfj.de/blob/83858/928434dae7d841aadc5d2b0ef137573b/20160307-studie-mitten-im-leben-data.pdf",
+  "knownData": [
+    {
+      "label": "Insgesamt",
+      "value": 411211
+    }
+  ],
+  "unknownData": {
+    "label": "In Gemeinschaftsunterkünften",
+    "value": 170492
+  },
+  "maxY": 500000,
+  "initialGuess": 10,
+  "unit": "",
+  "precision": 1
+}

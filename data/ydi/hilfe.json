@@ -10,7 +10,7 @@
     "value": 55
   },
   "maxY": 100,
-  "initialGuess": 10,
+  "initialGuess": 20,
   "unit": "%",
   "precision": 1
 }
