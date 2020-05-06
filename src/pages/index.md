@@ -1,5 +1,5 @@
 ---
-title: "Was schätzen Sie: Geflüchtete heute"
+title: "Was schätzen Sie: Zahlen zu Geflüchteten in Deutschland"
 description: Überprüfen sie ihre Annahmen über Geflüchtete in Deutschland
 author: Peter Schneider, Patricia Ennenbach
 pub_date: "2020-05-13"
@@ -24,15 +24,41 @@ import WdrPlayer from '../components/video/video.jsx'
 import YDIBar from '../components/ydi/ydiBar.jsx'
 import YDILine from '../components/ydi/ydiLine.jsx'
 
-# Was schätzen Sie: Geflüchtete gestern und heute
+# Was schätzen Sie: Zahlen zu Geflüchteten in Deutschland
 
-## WDR4YOU und die Story haben sich angeguckt, was aus Geflüchteten in Deutschland geworden ist
+## Fünf Jahre nach "Wir schaffen das"
 
-Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet:
+Fünf Bilder, die für die so genannte Flüchtlingskrise in Deutschland stehen. Fünf Schlaglichter, hinter denen spannende Geschichten und Menschen stecken. Und fünf Jahre nach „Wir schaffen das“ – dem mittlerweile geflügelten Wort von Bundeskanzlerin Angela Merkel.
 
-## Beispiel WSS Line Chart:
+Über Geflüchtete wurde viel geschrieben, man erinnert sich an ikonische Bilder – aber wie steht’s mit den nackten Zahlen? Was ist „gefühlte“ Wahrheit und was steht wirklich in den Statistiken?
 
-<YDILine name="test_line"/>
+Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen.
+
+## Alan Kurdi - der tote Junge am Strand
+
+<figure role="group">
+<img src="1_bodrum.jpg" alt="Bus" />
+<figcaption style="text-align: end;">Im Bus</figcaption>
+</figure>
+
+Das Bild von Alan Kurdi entstand am 2. September 2015. Seine Leiche liegt am Strand von Akyarlar an der türkischen Küste. Außer Alan sterben sein Bruder Ghalib und seine Mutter Rehanna, als ihr Schlauchboot auf dem Weg zur griechischen Insel Kos kentert. Alans Vater Abdullah hatte Schleppern 5.000 Euro bezahlt – nur er überlebt.
+
+<WdrPlayer videoSrc="https://media.w3.org/2010/05/sintel/trailer_hd.mp4" videoPoster="https://www1.wdr.de/fernsehen/abenteuer-erde/kuestenotter-100~_v-gseapremiumxl.jpg" />
+
+Die Tragödie sorgt dafür, dass die Flüchtlingskrise plötzlich nicht mehr abstrakt ist, sondern sehr real. Realität ist auch, dass heute noch Tausende Flüchtlinge versuchen, über das Mittelmeer nach Europa zu kommen. Auch Kinder.
+
+<YDIBar name="kinder"/>
+
+Beim Versuch, mit Booten das Mittelmeer zu überqueren, sterben auch heute immer wieder Menschen. Im Jahr 2015 waren es 3.771 Tote, ein Jahr später sogar mehr als 5000.
+
+<figure role="group">
+    <DataWrapper
+        alt="Während 2015 mit über 1 Million Geflüchteten und über 3.700 Toten die meisten Flüchtenden über das Mittelmeer kamen, starben 2016 mehr Menschen bei der Flucht: Über 5.000 Tote bei rund 370.000 Geflüchteten. Seitdem geht die Zahl der Geflüchteten und der Toten Jahr für Jahr zurück. 2019 gab es bei rund 120.000 Flüchtenden rund 1.300 Tote im Mittelmeer."
+        title="Fluchtroute Mittelmeer: Ankünfte und Tote"
+        src="//datawrapper.dwcdn.net/25FkR/1/"
+    />
+
+</figure>
 
 ## 1. ANTRÄGE
 
@@ -76,19 +102,6 @@ Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lo
 Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
 
 <YDIBar name="hilfe"/>
-
-## 4. KINDER
-
-<figure role="group">
-<img src="1_bodrum.jpg" alt="Bus" />
-<figcaption style="text-align: end;">Im Bus</figcaption>
-</figure>
-
-Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
-
-<YDIBar name="kinder"/>
-
-Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
 
 ## ARBEIT
 
@@ -139,16 +152,6 @@ Bei Leonard Bernstein und Jacques Offenbach sieht man, dass die großen Jubiläu
 Die beliebten Melodien von Mozart und Verdi lassen anscheinend kaum Konkurrenz zu. Denn Stücke von lebenden Komponisten und Komponistinnen finden sich selten auf den Spielplänen. Nur jeder dritte gespielte Komponist lebt noch, im Schnitt sind die Komponisten 180 Jahre alt. Ist die Opernwelt im 19. Jahrhundert stehen geblieben?
 
 ### Jeder dritte Komponist lebt - wird aber kaum aufgeführt
-
-<figure role="group">
-    <figcaption> Bei Klick auf 'KomponistInnen' ist zu sehen, wie das Verhältnis von verstorbenen zu lebenden KomponistInnen ist.</ figcaption>
-    <DataWrapper
-        alt="Fast jede dritte KomponistIn lebt, aber nur 9 % der Aufführung stammen von ihnen."
-        title="Nur 9 % der Aufführungen stammen von lebenden KomponistInnen."
-        src="//datawrapper.dwcdn.net/6D2bM/4/"
-    />
-
-</figure>
 
 Für den Komponisten Moritz Eggert ist das ein Armutzeugnis. Er hatte den deutschen Opernhäusern schon im vergangenen Jahr mangelnde Innovationskraft vorgeworfen:
 
