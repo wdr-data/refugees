@@ -21,6 +21,7 @@ const margin = {
     top: 10,
     left: isMobile ? 65 : 75,
     bottom: 50,
+    right: 0,
 }
 
 // Accessors
@@ -93,11 +94,11 @@ const YDIBarInternal = ({ name }) => {
 
     // Bounds
     const xMax = useMemo(
-        () => width - margin.left,
+        () => width - margin.left - margin.right,
         [width]
     );
     const yMax = useMemo(
-        () => height - margin.bottom,
+        () => height - margin.top - margin.bottom,
         [height]
     );
 
@@ -148,11 +149,11 @@ const YDIBarInternal = ({ name }) => {
         const clientY = e.touches ? e.touches[0].clientY : e.clientY;
 
         const rectPos = e.currentTarget.getBoundingClientRect();
-        const y = clientY - rectPos.top;
+        const yPos = clientY - rectPos.top - margin.top;
 
-        if ((!isDragging && !force) || confirmed || y < 0) return;
+        if ((!isDragging && !force) || confirmed || yPos < 0) return;
 
-        const newGuess = Math.max(0, yScale.invert(y - margin.top));
+        const newGuess = Math.max(0, yScale.invert(yPos));
         setHasGuessed(true);
         setGuess(newGuess);
     }, [confirmed, setHasGuessed, setGuess, yScale, isDragging]);
@@ -165,7 +166,7 @@ const YDIBarInternal = ({ name }) => {
         style={{
             left: dragX,
             width: xScale.step(),
-            height,
+            height: height - margin.bottom + 10,
         }}
         onMouseDown={(e) => { setIsDragging(true); guessCallback(e, true); }}
         onMouseUp={() => setIsDragging(false)}
