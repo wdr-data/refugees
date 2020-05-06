@@ -1,0 +1,55 @@
+{
+  "key": "antraege",
+  "heading": "Was schätzen Sie: Wie viele Asylanträge wurden in Deutschland seit 2015 gestellt?",
+  "subheading": "",
+  "result": "Nach einer Quote von 49,8 Prozent im Jahr 2015 ging der Anteil der positiven Bescheide nach oben. Bis 2019 sank die Quote wieder ab auf 38,2 Prozent. Zwischen Januar und März 2020 hat das Bundesamt für Migration über 42.242 Asylanträge entschieden. Dabei wurde insgesamt 16.682 Personen Schutz zugesprochen, was einer Schutzquote von 39,5 Prozent entspricht.",
+  "accessibility": "Nach einer Quote von 49,8 Prozent im Jahr 2015 ging der Anteil der positiven Bescheide nach oben. Bis 2019 sank die Quote wieder ab auf 38,2 Prozent. Zwischen Januar und März 2020 hat das Bundesamt für Migration über 42.242 Asylanträge entschieden. Dabei wurde insgesamt 16.682 Personen Schutz zugesprochen, was einer Schutzquote von 39,5 Prozent entspricht",
+  "source": "https://www.bamf.de/SharedDocs/Anlagen/DE/Statistik/BundesamtinZahlen/bundesamt-in-zahlen-2019-asyl.html?view=renderPdfViewer&nn=284738",
+  "knownData": [
+    {
+      "label": 2010,
+      "value": 21.6
+    },
+    {
+      "label": 2011,
+      "value": 22.3
+    },
+    {
+      "label": 2012,
+      "value": 27.7
+    },
+    {
+      "label": 2013,
+      "value": 24.9
+    },
+    {
+      "label": 2014,
+      "value": 31.5
+    },
+    {
+      "label": 2015,
+      "value": 49.8
+    }
+  ],
+  "unknownData": [
+    {
+      "label": 2016,
+      "value": 62.4
+    },
+    {
+      "label": 2017,
+      "value": 43.4
+    },
+    {
+      "label": 2018,
+      "value": 35
+    },
+    {
+      "label": 2019,
+      "value": 38.2
+    }
+  ],
+  "maxY": 100,
+  "unit": "%",
+  "precision": 1
+}
