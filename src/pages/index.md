@@ -34,7 +34,7 @@ Fünf Bilder, die für die so genannte Flüchtlingskrise in Deutschland stehen. 
 
 Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen.
 
-## Alan Kurdi - der tote Junge am Strand
+### Alan Kurdi - der tote Junge am Strand
 
 <figure role="group">
 <img src="1_bodrum.jpg" alt="Ein toter Junge liegt am Strand der türkischen Küste." />
@@ -62,7 +62,7 @@ Beim Versuch, mit Booten das Mittelmeer zu überqueren, sterben auch heute immer
 
 Im Jahr 2015 waren es 3.771 Tote, ein Jahr später sogar mehr als 5000.
 
-## Willkommen in Deutschland
+### Willkommen in Deutschland
 
 <figure role="group">
 <img src="2_münchen.jpg" alt="Eine Flüchtlingshelferin verteilt 2015 am Münchener Hauptbahnhof Teddybären." />
@@ -77,7 +77,7 @@ Viele Menschen engagieren sich in der Flüchtlingshilfe. Eine davon ist Nicole K
 
 <YDIBar name="hilfe"/>
 
-## „Wir schaffen das“ – Selfie mit der Kanzlerin
+### „Wir schaffen das“ – Selfie mit der Kanzlerin
 
 <figure role="group">
 <img src="3_berlin.JPG" alt="Angela Merkel mit erhobenem Daumen auf einem Selfie mit Anas Modamani. Das Bild entsteht am 10. September in Potsdam." />
