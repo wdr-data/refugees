@@ -1,8 +1,10 @@
 ### Bildrechte:
 
-- - Aufmacher-Bild: Richard Wagner und seine Freunde, Foto von Joseph Albert (picture alliance / akg-images)
-
-- - Bild 2: Der Wuppertaler Opernintendant Berthold Schneider, fotografiert von Jens Grossmann
+- - Alan Kurdi – der tote Junge am Strand:
+- - Willkommen in Deutschland:
+- - "Wir schaffen das" – Selfie mit der Kanzlerin:
+- - Wegscheid - Kapazitäten an der Grenze:
+- - Clausnitz - Ankunft in der Flüchtlingsunterkunft:
 
 ### Credits
 
