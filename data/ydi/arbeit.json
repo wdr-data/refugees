@@ -1,9 +1,9 @@
 {
   "key": "arbeit",
-  "heading": "Was schätzen Sie: Wie hoch ist die Erwerbstätigenquote der Geflüchteten?",
-  "subheading": "Gemeint sind Beschäftigte aus den Asylherkunftsländern Afghanistan, Eritrea, Irak, Iran, Nigeria, Pakistan, Somalia, Syrien",
-  "result": "**Gut verdienende Frauen sind in Deutschland in der Minderheit. Unter den verheirateten Frauen verdienen sogar nur 3,4 % mehr als 2.500 Euro netto. Das liegt neben der Berufswahl vor allem daran, welche Rollenverteilung in Partnerschaften gelebt wird. [Quelle](https://statistik.arbeitsagentur.de/Statischer-Content/Statistische-Analysen/Statistische-Sonderberichte/Generische-Publikationen/Auswirkungen-der-Migration-auf-den-Arbeitsmarkt.pdf)**",
-  "accessibility": "Während 23,2 Prozent der Männern zwischen 30 und 50 Jahren ein Einkommen von mehr als 2.500 Euro haben, sind es nur 5,1 Prozent der Frauen.",
+  "heading": "Was schätzen Sie: Wie hoch ist die Erwerbstätigenquote anerkannter Flüchtlinge?",
+  "subheading": "Gemeint sind Beschäftigte aus den Asylherkunftsländern Afghanistan, Eritrea, Irak, Iran, Nigeria, Pakistan, Somalia, Syrien.",
+  "result": "Etwa ein Drittel der Geflüchteten aus den Asylherkunftsländern ist mittlerweile in den Arbeitsmarkt integriert, die Beschäftigungsquote liegt bei 29,8 Prozent (Stand: Februar 2020). Zum Vergleich: Die Quote von Deutschen liegt bei 63 Prozent, die von Ausländern insgesamt bei 45,8 Prozent. \n\nWie die Bundesagentur für Arbeit mitteilt, hängt die niedrige Quote unter anderem damit zusammen, dass eine Arbeit nach der Anerkennung des Flüchtlingsschutzes erst zeitverzögert stattfindet. Im Vergleich zum Vorjahr erhöhte sich die Quote immerhin um 4,1 Prozentpunkte. [Quelle](https://statistik.arbeitsagentur.de/Statischer-Content/Statistische-Analysen/Statistische-Sonderberichte/Generische-Publikationen/Auswirkungen-der-Migration-auf-den-Arbeitsmarkt.pdf)",
+  "accessibility": "Die Beschäftigungsquote bei anerkannten Flüchtlingen aus den Asylherkunftsländern Afghanistan, Eritrea, Irak, Iran, Nigeria, Pakistan, Somalia, Syrien liegt bei 29,8 Prozent.",
   "source": "https://statistik.arbeitsagentur.de/Statischer-Content/Statistische-Analysen/Statistische-Sonderberichte/Generische-Publikationen/Auswirkungen-der-Migration-auf-den-Arbeitsmarkt.pdf",
   "knownData": [
     {
@@ -16,7 +16,7 @@
     }
   ],
   "unknownData": {
-    "label": "Asyl",
+    "label": "Anerkannte Flüchtlinge",
     "value": 36
   },
   "maxY": 80,

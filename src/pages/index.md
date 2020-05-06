@@ -37,8 +37,8 @@ Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den P
 ## Alan Kurdi - der tote Junge am Strand
 
 <figure role="group">
-<img src="1_bodrum.jpg" alt="Bus" />
-<figcaption style="text-align: end;">Im Bus</figcaption>
+<img src="1_bodrum.jpg" alt="Ein toter Junge liegt am Strand der türkischen Küste." />
+<figcaption style="text-align: end;">2015 geht das Bild eines toten Jungen am Strand um die Welt</figcaption>
 </figure>
 
 Das Bild von Alan Kurdi entstand am 2. September 2015. Seine Leiche liegt am Strand von Akyarlar an der türkischen Küste. Außer Alan sterben sein Bruder Ghalib und seine Mutter Rehanna, als ihr Schlauchboot auf dem Weg zur griechischen Insel Kos kentert. Alans Vater Abdullah hatte Schleppern 5.000 Euro bezahlt – nur er überlebt.
@@ -49,16 +49,65 @@ Die Tragödie sorgt dafür, dass die Flüchtlingskrise plötzlich nicht mehr abs
 
 <YDIBar name="kinder"/>
 
-Beim Versuch, mit Booten das Mittelmeer zu überqueren, sterben auch heute immer wieder Menschen. Im Jahr 2015 waren es 3.771 Tote, ein Jahr später sogar mehr als 5000.
+Beim Versuch, mit Booten das Mittelmeer zu überqueren, sterben auch heute immer wieder Menschen.
 
 <figure role="group">
     <DataWrapper
-        alt="Während 2015 mit über 1 Million Geflüchteten und über 3.700 Toten die meisten Flüchtenden über das Mittelmeer kamen, starben 2016 mehr Menschen bei der Flucht: Über 5.000 Tote bei rund 370.000 Geflüchteten. Seitdem geht die Zahl der Geflüchteten und der Toten Jahr für Jahr zurück. 2019 gab es bei rund 120.000 Flüchtenden rund 1.300 Tote im Mittelmeer."
+        alt="Während 2015 mit knapp über 1 Million Geflüchteten und über 3.700 Toten die meisten Flüchtenden über das Mittelmeer kamen, starben 2016 mehr Menschen bei der Flucht: Über 5.000 Tote bei rund 370.000 Geflüchteten. Seitdem geht die Zahl der Geflüchteten und der Toten Jahr für Jahr zurück. 2019 gab es bei rund 120.000 Flüchtenden rund 1.300 Tote im Mittelmeer."
         title="Fluchtroute Mittelmeer: Ankünfte und Tote"
         src="//datawrapper.dwcdn.net/25FkR/1/"
     />
 
 </figure>
+
+Im Jahr 2015 waren es 3.771 Tote, ein Jahr später sogar mehr als 5000.
+
+## Willkommen in Deutschland
+
+<figure role="group">
+<img src="2_münchen.jpg" alt="Eine Flüchtlingshelferin verteilt 2015 am Münchener Hauptbahnhof Teddybären." />
+<figcaption style="text-align: end;">Hilfe für Geflüchtete in München 2015</figcaption>
+</figure>
+
+Viele Menschen engagieren sich in der Flüchtlingshilfe. Eine davon ist Nicole Kopp aus München, die 2015 am Münchener Hauptbahnhof Teddybären an Flüchtlingskinder verteilt.
+
+<WdrPlayer videoSrc="https://media.w3.org/2010/05/sintel/trailer_hd.mp4" videoPoster="https://www1.wdr.de/fernsehen/abenteuer-erde/kuestenotter-100~_v-gseapremiumxl.jpg" />
+
+„Jedes Mal, wenn ich das Bild sehe, fühle ich mich glücklich. Weil ich an dem Tag wusste, ich kann helfen“, erinnert sich Nicole Kopp. Heute werden Helfer wie sie spöttisch als „Bahnhofsklatscher“ bezeichnet. Sie sieht das anders. Mit ihrer Arbeit habe sie geholfen, eine neue Seite von Deutschland zu zeigen.
+
+<YDIBar name="hilfe"/>
+
+## „Wir schaffen das“ – Selfie mit der Kanzlerin
+
+<figure role="group">
+<img src="3_berlin.JPG" alt="Angela Merkel mit erhobenem Daumen auf einem Selfie mit Anas Modamani. Das Bild entsteht am 10. September in Potsdam." />
+<figcaption style="text-align: end;">Die Bundeskanzlerin hebt den Daumen</figcaption>
+</figure>
+
+Am 4. September 2015 werden Tausende Geflüchtete von Ungarn aus in Richtung Österreich weitergeleitet. Daraufhin fällt die Bundesregierung die Entscheidung, die Grenzen nicht zu schließen und die Menschen aufzunehmen.
+
+Ihr Begründung – „Deutschland ist ein starkes Land … wir schaffen das“ – geht in die Geschichtsbücher ein. Ebenso wie das Bild von Angela Merkel mit erhobenem Daumen auf dem Selfie von Anas Modamani, das am 10. September in Potsdam entsteht.
+
+<WdrPlayer videoSrc="https://media.w3.org/2010/05/sintel/trailer_hd.mp4" videoPoster="https://www1.wdr.de/fernsehen/abenteuer-erde/kuestenotter-100~_v-gseapremiumxl.jpg" />
+
+Anas Modemani war vor seiner Flucht nach Deutschland nicht sonderlich interessiert an Politik. Das hat sich geändert - er lebt mittlerweile in Berlin, lernte Deutsch und studiert heute Medienmanagement.
+
+<YDIBar name="arbeit"/>
+
+Diesen Trend zeigen auch Zahlen des Bundesamts für Migration. Demnach steigt der Anteil der erwerbstätigen Geflüchteten an, je länger sie in Deutschland sind.
+
+<figure role="group">
+    <DataWrapper
+        alt="Je länger Geflüchtete in Deutschland sind, desto wahrscheinlicher ist es, dass sie Arbeit haben. Nach zwei Jahren arbeiten 17 Prozent, nach fünf Jahren 49 Prozent. Die Grafik zeigt auch, dass es Unterschiede zwischen Männern und Frauen gibt. Nach fünf Jahren liegt die Erwerbstätigenquote bei Männern bei 57 Prozent, bei Frauen bei 29 Prozent."
+        title="Fluchtroute Mittelmeer: Ankünfte und Tote"
+        src="//datawrapper.dwcdn.net/ERIod/1/"
+    />
+
+</figure>
+
+Zwei Jahre nach dem Zuzug liegt die Erwerbstätigenquote bei 17 Prozent, nach fünf Jahren sind es bereits 49 Prozent.
+
+---
 
 ## 1. ANTRÄGE
 
@@ -90,31 +139,7 @@ Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lo
 
 ## 3. HILFE
 
-<figure role="group">
-<img src="2_münchen.jpg" alt="Bus" />
-<figcaption style="text-align: end;">Im Bus</figcaption>
-</figure>
-
-Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
-
-<WdrPlayer videoSrc="https://media.w3.org/2010/05/sintel/trailer_hd.mp4" videoPoster="https://www1.wdr.de/fernsehen/abenteuer-erde/kuestenotter-100~_v-gseapremiumxl.jpg" />
-
-Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
-
-<YDIBar name="hilfe"/>
-
 ## ARBEIT
-
-<figure role="group">
-<img src="3_berlin.JPG" alt="Bus" />
-<figcaption style="text-align: end;">Im Bus</figcaption>
-</figure>
-
-Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
-
-<YDIBar name="test02"/>
-
-mehr toller text
 
 ### Zauberflöte vor Hänsel und Gretel
 
