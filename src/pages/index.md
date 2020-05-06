@@ -1,17 +1,18 @@
 ---
-title: "Opern-Spielpläne in NRW: tot und männlich"
-description: WDR 3 Datenanalyse der Opern-Spielzeit 2018/2019
-author: Niklas Rudolph, Patricia Ennenbach
-pub_date: "2019-07-15"
-heroImage: "richard-wagner-und-freunde.jpg"
-heroAlt: "Richard Wagner und seine Freunde"
-heroCredit: "Richard Wagner und seine Freunde"
-sharingImageFacebook: "richard-wagner-und-freunde_facebook.jpg"
-sharingImageTwitter: "richard-wagner-und-freunde_twitter.jpg"
+title: "Was schätzen Sie: Geflüchtete heute"
+description: Überprüfen sie ihre Annahmen über Geflüchtete in Deutschland
+author: Peter Schneider, Patricia Ennenbach
+pub_date: "2020-05-13"
+heroImage: "collage.png"
+heroAlt: "Collage aus 5 Bildern zum Thema Gefüchtete"
+heroCredit: ""
+sharingImageFacebook: ""
+sharingImageTwitter: ""
 cg1: "WDR"
 cg2: "Data"
-cg3: "WDR 3"
-cg4: "Opern-Spielpläne in NRW: tot und männlich"
+cg3: "WDR4You"
+cg4: "DieStory"
+cg5: "Was schätzen Sie: Geflüchtete heute"
 ---
 
 import DataWrapper from '../components/datawrapper/datawrapper.jsx'
@@ -20,16 +21,85 @@ import Webtrekk from '../components/webtrekk/webtrekk.jsx'
 import Sharing from '../components/sharing/sharing.jsx'
 import SemioticBarChart from '../components/semiotic_barChart/semiotic_barChart.jsx'
 import WdrPlayer from '../components/video/video.jsx'
+import YDIBar from '../components/ydi/ydiBar.jsx'
+import YDILine from '../components/ydi/ydiLine.jsx'
 
-# Opern-Spielpläne in NRW: tot und männlich
+# Was schätzen Sie: Geflüchtete gestern und heute
 
-## Wir haben die Opern-Spielpläne in NRW unter die Lupe genommen. Das Ergebnis: NRW ist ein Opern-Paradies. Aber lebende Komponisten haben kaum eine Chance, auf die Spielpläne zu kommen. Und Komponistinnen gar keine.
+## WDR4YOU und die Story haben sich angeguckt, was aus Geflüchteten in Deutschland geworden ist
 
-Waren Sie in der letzten Spielzeit in der Oper? Dann haben Sie höchstwahrscheinlich Papageno, die Knusperhexe oder Leporello auf der Bühne erlebt. Denn diese Opern und Operetten standen am häufigsten auf dem Spielplan:
+Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet:
 
-<SemioticBarChart/>
+## Beispiel WSS Line Chart:
+
+<YDILine name="test_line"/>
+
+## 1. ANTRÄGE
+
+<figure role="group">
+<img src="4_wegscheid.jpg" alt="Geflüchtete hinter Polizei-Auto" />
+<figcaption style="text-align: end;">Auf der Flucht</figcaption>
+</figure>
+
+Was schätzen Sie: Wie viele Asylanträge wurden in Deutschland gestellt? Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
+
+<YDILine name="test_line" />
+
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet.
+
+<Quote author="Angela Merkel, Bundeskanzlerin">Wir schaffen das.</Quote>
+
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet:
+
+## 2. ABSCHIEBUNGEN
+
+<figure role="group">
+<img src="5_clausnitz.jpg" alt="Bus" />
+<figcaption style="text-align: end;">Im Bus</figcaption>
+</figure>
+
+<YDILine name="test_line" />
+
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet:
+
+## 3. HILFE
+
+<figure role="group">
+<img src="2_münchen.jpg" alt="Bus" />
+<figcaption style="text-align: end;">Im Bus</figcaption>
+</figure>
+
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
 
 <WdrPlayer videoSrc="https://media.w3.org/2010/05/sintel/trailer_hd.mp4" videoPoster="https://www1.wdr.de/fernsehen/abenteuer-erde/kuestenotter-100~_v-gseapremiumxl.jpg" />
+
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
+
+<YDIBar name="hilfe"/>
+
+## 4. KINDER
+
+<figure role="group">
+<img src="1_bodrum.jpg" alt="Bus" />
+<figcaption style="text-align: end;">Im Bus</figcaption>
+</figure>
+
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
+
+<YDIBar name="kinder"/>
+
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
+
+## ARBEIT
+
+<figure role="group">
+<img src="3_berlin.JPG" alt="Bus" />
+<figcaption style="text-align: end;">Im Bus</figcaption>
+</figure>
+
+Mehr Text Lorem set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet set ametLorem ipsum dolor set amet Lorem ipsum dolor set amet Lorem ipsum dolor set amet
+
+<YDIBar name="test02"/>
 
 mehr toller text
 

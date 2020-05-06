@@ -6,9 +6,9 @@
 
 ### Credits
 
-- **Redaktion:** Niklas Rudolph, Urs Zietan, Jutta Starke
+- **Redaktion:** Urs Zietan
 - **Design:** Chrissi Holderbaum, Dilek Wache
-- **Programmierung:** Christine Gotthardt, Marcus Weiner, Jakob Holderbaum, Patricia Ennenbach
-- **Accessability, UX:** Dilek Wache, Stephanie Juranek
+- **Programmierung:** Jannes Höke, Patricia Ennenbach
+- **Accessability, UX:** Dilek Wache
 - **Datenrecherche:** Felix Buczek, Hannah Schmidt, Anne Glaser, Robert Haase, Greta Hey, Inge Akyaa, Katharina Riethmüller
 - **Besondere Unterstützung:** Dr. Olaf Roth, Musiktheater im Revier
