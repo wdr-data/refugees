@@ -3,7 +3,10 @@
   "heading": "Was schätzen Sie: Wie hoch war der Anteil der Deutschen, die sich zwischen 2015 und 2017 für Flüchtlinge engagiert haben – sei es durch aktive Arbeit, Fürsprache oder Spenden?",
   "result": "Mehr als die Hälfte aller Deutschen ab 16 Jahren gaben bei einer repräsentativen Umfrage des Instituts für Demoskopie Allensbach im Auftrag des Bundesfamilienministeriums an, sich für Geflüchtete engagiert zu haben. Davon war immerhin ein Viertel aktiv im Einsatz, 15 Prozent unterstützten durch Fürsprache und 49 Prozent mit Sach- oder Geldspenden. [Quelle](https://www.bmfsfj.de/blob/122010/d35ec9bf4a940ea49283485db4625aaf/engagement-in-der-fluechlingshilfe-data.pdf)",
   "accessibility": "55 % gaben bei einer repräsentativen Umfrage des Allensbach-Instituts an, sich für Flüchtlinge eingesetzt zu haben: Durch aktive Hilfe, Briefe an PolitikerInnen oder Spenden.",
-  "source": "https://www.bmfsfj.de/blob/122010/d35ec9bf4a940ea49283485db4625aaf/engagement-in-der-fluechlingshilfe-data.pdf",
+  "source": {
+    "url": "https://www.bmfsfj.de/blob/122010/d35ec9bf4a940ea49283485db4625aaf/engagement-in-der-fluechlingshilfe-data.pdf",
+    "title": "BMFSFJ"
+  },
   "knownData": [],
   "unknownData": {
     "label": "Engagement für Geflüchtete",

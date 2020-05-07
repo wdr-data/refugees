@@ -4,7 +4,10 @@
   "subheading": "",
   "result": "Nach einer Quote von 49,8 Prozent im Jahr 2015 ging der Anteil der positiven Bescheide nach oben. Bis 2019 sank die Quote wieder ab auf 38,2 Prozent. Zwischen Januar und März 2020 hat das Bundesamt für Migration über 42.242 Asylanträge entschieden. Dabei wurde insgesamt 16.682 Personen Schutz zugesprochen, was einer Schutzquote von 39,5 Prozent entspricht.",
   "accessibility": "Nach einer Quote von 49,8 Prozent im Jahr 2015 ging der Anteil der positiven Bescheide nach oben. Bis 2019 sank die Quote wieder ab auf 38,2 Prozent. Zwischen Januar und März 2020 hat das Bundesamt für Migration über 42.242 Asylanträge entschieden. Dabei wurde insgesamt 16.682 Personen Schutz zugesprochen, was einer Schutzquote von 39,5 Prozent entspricht",
-  "source": "https://www.bamf.de/SharedDocs/Anlagen/DE/Statistik/BundesamtinZahlen/bundesamt-in-zahlen-2019-asyl.html?view=renderPdfViewer&nn=284738",
+  "source": {
+    "url": "https://www.bamf.de/SharedDocs/Anlagen/DE/Statistik/BundesamtinZahlen/bundesamt-in-zahlen-2019-asyl.html?view=renderPdfViewer&nn=284738",
+    "title": "BAMF"
+  },
   "knownData": [
     {
       "label": 2010,

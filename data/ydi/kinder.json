@@ -4,7 +4,10 @@
   "subheading": "Bis zum 31.3.2020 kamen in diesem Jahr über den Seeweg 16.187 Geflüchtete nach Europa. Wie hoch war der Anteil an Kindern?",
   "result": "Nach Angaben des UN-Flüchtlingshilfswerk UNHCR waren 25,1 Prozent aller Geflüchteten, die vom 1.1. bis 31.3. 2020 über das Mittelmeer nach Europa kamen Kinder. Der Anteil der Frauen lag bei 16,2 Prozent, die restlichen 58,8 Prozent waren Männer. [Quelle](https://www.bmfsfj.de/blob/122010/d35ec9bf4a940ea49283485db4625aaf/engagement-in-der-fluechlingshilfe-data.pdf)",
   "accessibility": "25,1 Prozent aller Geflüchteten in den ersten drei Monaten 2020 waren Kinder.",
-  "source": "https://www.bmfsfj.de/blob/122010/d35ec9bf4a940ea49283485db4625aaf/engagement-in-der-fluechlingshilfe-data.pdf",
+  "source": {
+    "url": "https://www.bmfsfj.de/blob/122010/d35ec9bf4a940ea49283485db4625aaf/engagement-in-der-fluechlingshilfe-data.pdf",
+    "title": "BMFSFJ"
+  },
   "knownData": [],
   "unknownData": {
     "label": "Anteil an Kindern",
