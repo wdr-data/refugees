@@ -21,7 +21,7 @@ const brandSecondary = "#A36A00";
 const defaultMargin = {
     top: 10,
     left: 65,
-    bottom: 50,
+    bottom: 25,
     right: 25,
 }
 
@@ -201,6 +201,7 @@ const YDILineInternal = ({ name }) => {
         onMouseUp={() => setIsDragging(false)}
         onMouseMove={guessCallback}
         onMouseLeave={() => setPreviewTarget(null)}
+        onMouseLeave={() => setIsDragging(false)}
         onTouchStart={(e) => { setIsDragging(true); guessCallback(e, true); }}
         onTouchEnd={() => setIsDragging(false)}
         onTouchMove={guessCallback}
@@ -319,7 +320,12 @@ const YDILineInternal = ({ name }) => {
         <YDIWrapper
             question={question}
             confirmAllowed={!confirmed && hasGuessed}
-            onConfirm={confirmCallback}>
+            onConfirm={confirmCallback}
+            ctaMessage={
+                <span>
+                    Zeichnen Sie den Graphen!<br />Der Klick verrät, ob ihre Schätzung stimmt.
+                </span>
+            }>
             <svg width={width} height={height}>
                 <LinearGradient id="gradientPrimary" from={brandPrimary} fromOpacity={0.4} to={brandPrimary} toOpacity={0} vertical={true} />
                 <Group top={margin.top} left={margin.left}>

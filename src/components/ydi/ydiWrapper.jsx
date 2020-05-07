@@ -6,7 +6,7 @@ import ReactMarkdown from 'react-markdown';
 
 import styles from "./ydiWrapper.module.css";
 
-export const YDIWrapper = ({ question, confirmAllowed, onConfirm, children }) => {
+export const YDIWrapper = ({ question, confirmAllowed, onConfirm, children, ctaMessage }) => {
     const [confirmed, setConfirmed] = useState(false);
     const confirmHandler = useCallback(() => {
         setConfirmed(true);
@@ -24,10 +24,13 @@ export const YDIWrapper = ({ question, confirmAllowed, onConfirm, children }) =>
                     {question.accessibility}
                 </div>
                 <div className={classNames(styles.result, question.key, confirmAllowed && styles.finished, confirmed && styles.shown)}>
+                    <div className={styles.source} hidden={!confirmed} aria-hidden="false">
+                        <span>Quelle: <a href={question.source.url} aria-label="Quelle">{question.source.title}</a></span>
+                    </div>
                     <div className={styles.actionContainer} aria-hidden="true">
                         <button className={styles.showAction} disabled={!confirmAllowed} onClick={confirmHandler}>Wie ist es tatsächlich?</button>
                         <div className={styles.tooltipContainer}>
-                            <span className={styles.tooltipText}>Ziehen Sie den Balken! Der Klick verrät, ob ihre Schätzung stimmt.</span>
+                            <div className={styles.tooltipText}>{ctaMessage}</div>
                         </div>
                     </div>
                     <div className={styles.text} hidden={!confirmed} aria-hidden="false"><ReactMarkdown source={question.result} linkTarget="_blank" /></div>
