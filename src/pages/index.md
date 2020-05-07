@@ -42,7 +42,7 @@ Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den P
 
 Das Bild von Alan Kurdi entstand am 2. September 2015. Seine Leiche liegt am Strand von Akyarlar an der türkischen Küste. Außer Alan sterben sein Bruder Ghalib und seine Mutter Rehanna, als ihr Schlauchboot auf dem Weg zur griechischen Insel Kos kentert. Alans Vater Abdullah hatte Schleppern 5.000 Euro bezahlt – nur er überlebt.
 
-<WdrPlayer videoId="2159001" videoPoster="https://i.imgur.com/hZIGM2L.jpg" />
+<WdrPlayer videoId="2159001" videoPoster="2.jpg" />
 
 Die Tragödie sorgt dafür, dass die Flüchtlingskrise plötzlich nicht mehr abstrakt ist, sondern sehr real. Realität ist auch, dass heute noch Tausende Flüchtlinge versuchen, über das Mittelmeer nach Europa zu kommen. Auch Kinder.
 
