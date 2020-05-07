@@ -51,5 +51,8 @@
   ],
   "maxY": 100,
   "unit": "%",
-  "precision": 1
+  "precision": 1,
+  "customMargin": {
+    "left": 55
+  }
 }

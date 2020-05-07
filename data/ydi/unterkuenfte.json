@@ -17,5 +17,8 @@
   "maxY": 500000,
   "initialGuess": 100000,
   "unit": "",
-  "precision": 0
+  "precision": 0,
+  "customMargin": {
+    "left": 70
+  }
 }
