@@ -5,50 +5,50 @@
   "result": "Die höchste Zahl an Asylanträgen gab es in Deutschland im Jahr 2015 mit 745.545. Seit dem Frühjahr 2016 geht diese Zahl kontinuierlich zurück. 2019 waren es insgesamt 165.938 Anträge.",
   "accessibility": "Die höchste Zahl an Asylanträgen gab es in Deutschland im Jahr 2015 mit 745.545. Seit dem Frühjahr 2016 geht diese Zahl kontinuierlich zurück. 2019 waren es insgesamt 165.938 Anträge.",
   "source": {
-    "url": "http://example.com/",
-    "title": "Eine Studie"
+    "url": "https://statistik.arbeitsagentur.de/Statischer-Content/Statistische-Analysen/Statistische-Sonderberichte/Generische-Publikationen/Auswirkungen-der-Migration-auf-den-Arbeitsmarkt.pdf",
+    "title": "Bundesagentur für Arbeit"
   },
   "knownData": [
     {
-      "label": 2010,
+      "label": 10,
       "value": 48589
     },
     {
-      "label": 2011,
+      "label": 11,
       "value": 53347
     },
     {
-      "label": 2012,
+      "label": 12,
       "value": 77651
     },
     {
-      "label": 2013,
+      "label": 13,
       "value": 127023
     },
     {
-      "label": 2014,
-      "value": 202834
+      "label": 14,
+      "value": 2834
     },
     {
-      "label": 2015,
+      "label": 15,
       "value": 476649
     }
   ],
   "unknownData": [
     {
-      "label": 2016,
+      "label": 16,
       "value": 745545
     },
     {
-      "label": 2017,
+      "label": 17,
       "value": 222683
     },
     {
-      "label": 2018,
+      "label": 18,
       "value": 185853
     },
     {
-      "label": 2019,
+      "label": 19,
       "value": 165938
     }
   ],
@@ -56,7 +56,6 @@
   "unit": "",
   "precision": 0,
   "customMargin": {
-    "left": 85,
-    "right": 20
+    "left": 85
   }
 }
