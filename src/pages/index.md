@@ -141,9 +141,9 @@ Auch hier gibt es deutliche Unterschiede zwischen den einzelnen Bundesländern.
 
 <figure role="group">
     <DataWrapper
-        alt="Kommt noch"
+        alt="Unterbringung von Geflüchteten"
         title="Unterbringung von Geflüchteten"
-        src="//datawrapper.dwcdn.net/uMQnY/1/"
+        src="https://data.wdr.de/ddj/data-tabs/view?title=Aufnahmeeinrichtung&url=https%3A%2F%2Fdatawrapper.dwcdn.net%2FuMQnY%2F7%2F&frameTitle=Aufnahmeeinrichtung&ariaLabel=Balken&title=Gemeinschaftsunterkunft&url=https%3A%2F%2Fdatawrapper.dwcdn.net%2Fu9Yu9%2F5%2F&frameTitle=Gemeinschaftsunterkunft&ariaLabel=Balken&title=dezentrale+Unterkunft&url=https%3A%2F%2Fdatawrapper.dwcdn.net%2FPmKA4%2F6%2F&frameTitle=Dezentrale+Unterbringung&ariaLabel=Balken"
     />
 
 </figure>
