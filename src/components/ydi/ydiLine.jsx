@@ -364,7 +364,14 @@ const YDILineInternal = ({ name }) => {
                             dy: '6px',
                             dx: '-4px',
                         })}
-                        tickFormat={(value) => `${formatNumber(value)}${question.unit}`}
+                        tickFormat={
+                            (value) => {
+                                if (question.key === 'antraege') {
+                                    const formatter = new Intl.NumberFormat('de-DE');
+                                    return `${formatter.format(value / 1000000)}${value ? ' Mio.' : ''}`;
+                                }
+                                return `${formatNumber(value)}${question.unit}`;
+                            }}
                     />
                     <GridRows
                         lineStyle={{ pointerEvents: 'none' }}
