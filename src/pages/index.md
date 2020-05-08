@@ -139,7 +139,7 @@ Der Ablauf der Unterbringung ist geregelt. Asylsuchende werden zunächst in eine
 
 Auch hier gibt es deutliche Unterschiede zwischen den einzelnen Bundesländern.
 
-# Unterbringung von Geflüchteten
+#### Unterbringung von Geflüchteten
 
 <figure role="group">
     <DataWrapper
