@@ -4,7 +4,7 @@
 - - Willkommen in Deutschland: Abendzeitung/nk
 - - "Wir schaffen das" – Selfie mit der Kanzlerin: Reuters
 - - Wegscheid - Kapazitäten an der Grenze: dpa
-- - Clausnitz - Ankunft in der Flüchtlingsunterkunft: NDR
+- - Clausnitz - Ankunft in der Flüchtlingsunterkunft: WDR
 
 ### Credits
 
