@@ -12,4 +12,4 @@
 - **Design:** Chrissi Holderbaum, Dilek Wache
 - **Programmierung:** Jannes Höke, Patricia Ennenbach
 - **Accessability, UX:** Dilek Wache
-- **Datenrecherche:** Peter Schneider
+- **Besonderer Dank** an die Autoren Bamdad Esmaili (WDR4you) und Matthias Fuchs (die story) für die Zusammenarbeit
