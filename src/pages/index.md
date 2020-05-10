@@ -42,7 +42,7 @@ Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den P
 
 <WdrPlayer videoId="2159001" videoPoster="2.jpg" />
 
-Das Bild von Alan Kurdi entstand am 2. September 2015. Die Leiche des Jungen liegt am Strand von Akyarlar an der türkischen Küste. Außer Alan sterben sein Bruder Ghalib und seine Mutter Rehanna, als ihr Schlauchboot auf dem Weg zur griechischen Insel Kos kentert. Alans Vater Abdullah hatte Schleppern 5.000 Euro für die Überfahrt bezahlt – nur er überlebt.
+Das Bild von Alan Kurdi entstand am 2. September 2015. Die Leiche des Jungen liegt am Strand von Akyarlar an der türkischen Küste. Außer Alan sterben sein Bruder Ghalib und seine Mutter Rehanna, als ihr Schlauchboot auf dem Weg zur griechischen Insel Kos kentert. Alans Vater Abdullah hatte Schleppern 4.000 Euro für die Überfahrt bezahlt – nur er überlebt.
 
 Im Jahr 2015 zählte das Flüchtlingswerk der Vereinen Nationen insgesamt 3.771 Tote, ein Jahr später waren es sogar mehr als 5000. Die Tragödie um Alan Kurdi sorgte im September 2015 dafür, dass die Flüchtlingskrise plötzlich nicht mehr abstrakt ist, sondern sehr real. 
 
@@ -60,7 +60,7 @@ Realität ist auch, dass heute noch Tausende Flüchtlinge versuchen, über das M
 
 ### Willkommen in Deutschland
 
-Viele Menschen engagieren sich im Herbst 2015 in der Flüchtlingshilfe. Eine davon ist Nicole Kopp aus München, die 2015 am Münchener Hauptbahnhof Teddybären an Flüchtlingskinder verteilt. "Jedes Mal, wenn ich das Bild sehe, fühle ich mich glücklich. Weil ich an dem Tag wusste, ich kann helfen“, erinnert sich Nicole Kopp.
+Viele Menschen engagieren sich im Herbst 2015 in der Flüchtlingshilfe. Eine davon ist Nicole Kopp aus München, die 2015 am Münchener Hauptbahnhof Teddybären an Flüchtlingskinder verteilt. Die seinen froh gewesen, dass da jemand gewesen ist, der ihnen eine Freude gemacht habe, erinnert sich Nicole Kopp.
 
 <WdrPlayer videoId="2159001" videoPoster="3.jpg" />
 
@@ -72,9 +72,9 @@ Heute werden Helferinnen und Helfer wie sie spöttisch als „Bahnhofsklatscher�
 
 <WdrPlayer videoSrc="https://media.w3.org/2010/05/sintel/trailer_hd.mp4" videoPoster="4.jpg" />
 
-Am 4. September 2015 werden Tausende Geflüchtete von Ungarn aus in Richtung Österreich weitergeleitet. Daraufhin fällt die Bundesregierung die Entscheidung, die Grenzen nicht zu schließen und die Menschen aufzunehmen.
+Am 4. September 2015 werden Tausende Geflüchtete von Ungarn aus in Richtung Österreich weitergeleitet. Daraufhin fällt die Bundesregierung die Entscheidung, die Grenzen nicht zu schließen und die Menschen aufzunehmen. 
 
-Die Begründung der Bundeskanzlerin – "Deutschland ist ein starkes Land … wir schaffen das" – geht in die Geschichtsbücher ein. Ebenso wie das Bild von Angela Merkel mit erhobenem Daumen auf dem Selfie von Anas Modamani, das am 10. September 2015 in Potsdam entsteht.
+Die Begründung für diesen Schritt hatte die Bundeskanzlerin bereits fünf Tag vorher geliefert: "Deutschland ist ein starkes Land … wir schaffen das". Ein Satz, der in die Geschichtsbücher eingeht. Ebenso wie das Bild von Angela Merkel mit erhobenem Daumen auf dem Selfie von Anas Modamani, das am 10. September 2015 in Berlin entsteht.
 
 Anas Modemani war vor seiner Flucht nach Deutschland nicht sonderlich interessiert an Politik. Das hat sich mittlerweile geändert - er lernte Deutsch, lebt heute in Berlin und studiert Medienmanagement.
 
@@ -86,7 +86,7 @@ Diesen Trend zeigen auch Zahlen des Bundesamts für Migration. Je länger Geflü
 
 <WdrPlayer videoSrc="https://media.w3.org/2010/05/sintel/trailer_hd.mp4" videoPoster="5.jpg" />
 
-Im Herbst 2015 wächst der Druck auf die Grenzen. Österreichische Behörden bringen Ende Oktober allein 2.000 Geflüchtete an die Grenze - wo sie von der bayerischen Polizei in Empfang genommen werden. In der niederbayerischen Gemeinde Wegscheid entsteht dabei das berühmte Foto mit einer langen Schlange von Geflüchteten hinter einem Polizeiwagen.
+Im Herbst 2015 wächst der Druck auf die Grenzen. Österreichische Behörden bringen Ende Oktober an einem Tag allein 2.000 Geflüchtete an die Grenze - wo sie von der bayerischen Polizei in Empfang genommen werden. In der niederbayerischen Gemeinde Wegscheid entsteht dabei das berühmte Foto mit einer langen Schlange von Geflüchteten hinter einem Polizeiwagen.
 
 Die Aufnahme der Geflüchteten stellt viele Kommunen in Deutschland vor Probleme. Aufnahmeplätze müssen gefunden werden, Turnhallen werden freigeräumt und auch der Prozess der Registrierung der Geflüchteten gestaltet sich anfangs schwierig.
 
