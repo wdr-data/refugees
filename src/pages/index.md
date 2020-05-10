@@ -39,14 +39,9 @@ Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den P
 
 ### Alan Kurdi - der tote Junge am Strand
 
-<figure role="group">
-<img src="2.jpg" alt="Ein toter Junge liegt am Strand der türkischen Küste." />
-<figcaption style="text-align: end;"> </figcaption>
-</figure>
+<WdrPlayer videoId="2159001" videoPoster="2.jpg" />
 
 Das Bild von Alan Kurdi entstand am 2. September 2015. Die Leiche des Jungen liegt am Strand von Akyarlar an der türkischen Küste. Außer Alan sterben sein Bruder Ghalib und seine Mutter Rehanna, als ihr Schlauchboot auf dem Weg zur griechischen Insel Kos kentert. Alans Vater Abdullah hatte Schleppern 5.000 Euro für die Überfahrt bezahlt – nur er überlebt.
-
-<WdrPlayer videoId="2159001" videoPoster="2.jpg" />
 
 Im Jahr 2015 zählte das Flüchtlingswerk der Vereinen Nationen insgesamt 3.771 Tote, ein Jahr später waren es sogar mehr als 5000. Die Tragödie um Alan Kurdi sorgte im September 2015 dafür, dass die Flüchtlingskrise plötzlich nicht mehr abstrakt ist, sondern sehr real. 
 
