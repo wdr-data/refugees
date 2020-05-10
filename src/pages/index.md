@@ -35,7 +35,7 @@ LINK VIDEO
 
 Die Bilder dienen als roter Faden, zeigen die Emotionen. Die Zahlen bieten die Chance auf einen unverstellten Rückblick. Was ist „gefühlte“ Wahrheit und was steht wirklich in den Statistiken? 
 
-Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. 
+Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. Ziehen Sie einfach mit der Maus oder dem Finger die Balken und Linien so, wie sie die jeweiligen Zahlen einschätzen. Mit einem Klick auf "Wie ist's tatsächlich?" erhalten Sie das Ergebnis.
 
 ### Alan Kurdi - der tote Junge am Strand
 
