@@ -29,11 +29,11 @@ import YDILine from '../components/ydi/ydiLine.jsx'
 
 **Fünf Bilder, die für die so genannte Flüchtlingskrise in Deutschland stehen. Fünf Schlaglichter, hinter denen spannende Geschichten und Menschen stecken. Und fünf Jahre nach „Wir schaffen das“ – dem mittlerweile geflügelten Wort von Bundeskanzlerin Angela Merkel.**
 
-Über Geflüchtete wurde viel geschrieben, man erinnert sich an ikonische Bilder. Bamdad Esmaili und Matthias Fuchs haben sich die Geschichten hinter den Bildern angeschaut. 
+Über Geflüchtete wurde viel geschrieben, man erinnert sich an ikonische Bilder. Bamdad Esmaili und Matthias Fuchs haben sich die Geschichten hinter den Bildern angeschaut.
 
 LINK VIDEO
 
-Die Bilder dienen als roter Faden, zeigen die Emotionen. Die Zahlen bieten die Chance auf einen unverstellten Rückblick. Was ist „gefühlte“ Wahrheit und was steht wirklich in den Statistiken? 
+Die Bilder dienen als roter Faden, zeigen die Emotionen. Die Zahlen bieten die Chance auf einen unverstellten Rückblick. Was ist „gefühlte“ Wahrheit und was steht wirklich in den Statistiken?
 
 Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. Ziehen Sie einfach mit der Maus oder dem Finger die Balken und Linien so, wie sie die jeweiligen Zahlen einschätzen. Mit einem Klick auf "Wie ist's tatsächlich?" erhalten Sie das Ergebnis.
 
@@ -44,11 +44,11 @@ Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den P
 
 Das Bild von Alan Kurdi entstand am 2. September 2015. Die Leiche des Jungen liegt am Strand von Akyarlar an der türkischen Küste. Außer Alan sterben sein Bruder Ghalib und seine Mutter Rehanna, als ihr Schlauchboot auf dem Weg zur griechischen Insel Kos kentert. Alans Vater Abdullah hatte Schleppern 4.000 Euro für die Überfahrt bezahlt – nur er überlebt.
 
-Im Jahr 2015 zählte das Flüchtlingswerk der Vereinen Nationen insgesamt 3.771 Tote, ein Jahr später waren es sogar mehr als 5000. Die Tragödie um Alan Kurdi sorgte im September 2015 dafür, dass die Flüchtlingskrise plötzlich nicht mehr abstrakt ist, sondern sehr real. 
+Im Jahr 2015 zählte das Flüchtlingswerk der Vereinen Nationen insgesamt 3.771 Tote, ein Jahr später waren es sogar mehr als 5000. Die Tragödie um Alan Kurdi sorgte im September 2015 dafür, dass die Flüchtlingskrise plötzlich nicht mehr abstrakt ist, sondern sehr real.
 
 <YDIBar name="kinder"/>
 
-Realität ist auch, dass heute noch Tausende Flüchtlinge versuchen, über das Mittelmeer nach Europa zu kommen. Auch Kinder.Bei diesen Versuchen sterben auch heute immer wieder Menschen. 
+Realität ist auch, dass heute noch Tausende Flüchtlinge versuchen, über das Mittelmeer nach Europa zu kommen. Auch Kinder.Bei diesen Versuchen sterben auch heute immer wieder Menschen.
 
 <figure role="group">
     <DataWrapper
@@ -72,7 +72,7 @@ Heute werden Helferinnen und Helfer wie sie spöttisch als „Bahnhofsklatscher�
 
 <WdrPlayer videoSrc="https://media.w3.org/2010/05/sintel/trailer_hd.mp4" videoPoster="4.jpg" />
 
-Am 4. September 2015 werden Tausende Geflüchtete von Ungarn aus in Richtung Österreich weitergeleitet. Daraufhin fällt die Bundesregierung die Entscheidung, die Grenzen nicht zu schließen und die Menschen aufzunehmen. 
+Am 4. September 2015 werden Tausende Geflüchtete von Ungarn aus in Richtung Österreich weitergeleitet. Daraufhin fällt die Bundesregierung die Entscheidung, die Grenzen nicht zu schließen und die Menschen aufzunehmen.
 
 Die Begründung für diesen Schritt hatte die Bundeskanzlerin bereits fünf Tag vorher geliefert: "Deutschland ist ein starkes Land … wir schaffen das". Ein Satz, der in die Geschichtsbücher eingeht. Ebenso wie das Bild von Angela Merkel mit erhobenem Daumen auf dem Selfie von Anas Modamani, das am 10. September 2015 in Berlin entsteht.
 
@@ -103,7 +103,7 @@ Zum Stichtag 30. Juni 2019 lebten etwa 1,3 Millionen Menschen in Deutschland, di
 <figcaption style="text-align: end;">Ankunft im Erzgebirge</figcaption>
 </figure>
 
-Vor allem in Ostdeutschland formiert sich 2015 und 2016 Widerstand gegen die Aufnahme von Geflüchteten. Das bekamen unter anderem die Menschen zu spüren, die am 18. Februar 2016 in Clausnitz im Erzgebirge ankamen. An der Flüchtlingsunterkunft wurden sie von Protestierenden erwartet. 
+Vor allem in Ostdeutschland formiert sich 2015 und 2016 Widerstand gegen die Aufnahme von Geflüchteten. Das bekamen unter anderem die Menschen zu spüren, die am 18. Februar 2016 in Clausnitz im Erzgebirge ankamen. An der Flüchtlingsunterkunft wurden sie von Protestierenden erwartet.
 
 Die Unterbringung der Geflüchteten war 2015/16 vor allem für die Kommunen eine große Herausforderung. Die Verteilung auf die einzelnen Bundesländer orientiert sich auch heute am sogenannten Königssteiner Schlüssel. Je nach Größe und Wirtschaftskraft des Landes werden die Geflüchteten-Kontingente auf die Länder verteilt. NRW liegt 2019 demnach bei 21,1 Prozent, Bayern bei 15,6 Prozent. Sachsen erhält fünf Prozent, Thüringen 2,6 Prozent.
 
@@ -116,12 +116,7 @@ Auch hier gibt es deutliche Unterschiede zwischen den einzelnen Bundesländern.
 ### Unterbringung von Geflüchteten
 
 <figure role="group">
-    <DataWrapper
-        alt="Unterbringung von Geflüchteten"
-        title="Unterbringung von Geflüchteten"
-        src="https://data.wdr.de/ddj/data-tabs/view?title=Aufnahmeeinrichtung&url=https%3A%2F%2Fdatawrapper.dwcdn.net%2FuMQnY%2F7%2F&frameTitle=Aufnahmeeinrichtung&ariaLabel=Balken&title=Gemeinschaftsunterkunft&url=https%3A%2F%2Fdatawrapper.dwcdn.net%2Fu9Yu9%2F5%2F&frameTitle=Gemeinschaftsunterkunft&ariaLabel=Balken&title=dezentrale+Unterkunft&url=https%3A%2F%2Fdatawrapper.dwcdn.net%2FPmKA4%2F6%2F&frameTitle=Dezentrale+Unterbringung&ariaLabel=Balken"
-    />
-
+    <iframe title="Unterbringung von Geflüchteten" aria-label="Tab-Übersicht: Unterbringung von Geflüchteten" src="https://data.wdr.de/ddj/data-tabs/view?title=Aufnahmeeinrichtung&url=https%3A%2F%2Fdatawrapper.dwcdn.net%2FuMQnY%2F7%2F&frameTitle=Aufnahmeeinrichtung&ariaLabel=Balken&title=Gemeinschaftsunterkunft&url=https%3A%2F%2Fdatawrapper.dwcdn.net%2Fu9Yu9%2F5%2F&frameTitle=Gemeinschaftsunterkunft&ariaLabel=Balken&title=dezentrale+Unterkunft&url=https%3A%2F%2Fdatawrapper.dwcdn.net%2FPmKA4%2F6%2F&frameTitle=Dezentrale+Unterbringung&ariaLabel=Balken" scrolling="no" frameborder="0" width="100%" style="border: none;" height="780"></iframe>
 </figure>
 
 <Sharing twitter facebook mail telegram/>
