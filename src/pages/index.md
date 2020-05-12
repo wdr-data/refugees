@@ -51,7 +51,7 @@ Im Jahr 2015 zählte das Flüchtlingswerk der Vereinen Nationen insgesamt 3.771 
 
 <YDIBar name="kinder"/>
 
-Realität ist auch, dass heute noch Tausende Flüchtlinge versuchen, über das Mittelmeer nach Europa zu kommen. Auch Kinder.Bei diesen Versuchen sterben auch heute immer wieder Menschen.
+Realität ist auch, dass heute noch Tausende Flüchtlinge versuchen, über das Mittelmeer nach Europa zu kommen. Auch Kinder. Bei diesen Versuchen sterben auch heute immer wieder Menschen.
 
 <figure role="group">
     <DataWrapper
@@ -70,7 +70,7 @@ Viele Menschen engagieren sich im Herbst 2015 in der Flüchtlingshilfe. Eine dav
 <figcaption style="text-align: end;"> </figcaption>
 </figure>
 
-Heute werden Helferinnen und Helfer wie sie spöttisch als „Bahnhofsklatscher“ bezeichnet. Sie sieht das anders. Mit ihrer Arbeit habe sie geholfen, eine neue Seite von Deutschland zu zeigen.
+Heute werden Helferinnen und Helfer wie sie im Internet teils spöttisch als „Bahnhofsklatscher“ bezeichnet. Sie sieht das anders. Mit ihrer Arbeit habe sie geholfen, eine neue Seite von Deutschland zu zeigen.
 
 <YDIBar name="hilfe"/>
 
@@ -81,7 +81,7 @@ Heute werden Helferinnen und Helfer wie sie spöttisch als „Bahnhofsklatscher�
 <figcaption style="text-align: end;"> </figcaption>
 </figure>
 
-Am 4. September 2015 werden Tausende Geflüchtete von Ungarn aus in Richtung Österreich weitergeleitet. Daraufhin fällt die Bundesregierung die Entscheidung, die Grenzen nicht zu schließen und die Menschen aufzunehmen.
+Am 4. September 2015 werden Tausende Geflüchtete von Ungarn aus in Richtung Österreich weitergeleitet. Daraufhin fällt die Bundesregierung die Entscheidung, die Grenzen nicht zu schließen und die Menschen ins Land zu lassen.
 
 Die Begründung für diesen Schritt hatte die Bundeskanzlerin bereits fünf Tag vorher geliefert: "Deutschland ist ein starkes Land … wir schaffen das". Ein Satz, der in die Geschichtsbücher eingeht. Ebenso wie das Bild von Angela Merkel mit erhobenem Daumen auf dem Selfie von Anas Modamani, das am 10. September 2015 in Berlin entsteht.
 
@@ -98,13 +98,13 @@ Diesen Trend zeigen auch Zahlen des Bundesamts für Migration. Je länger Geflü
 <figcaption style="text-align: end;"> </figcaption>
 </figure>
 
-Im Herbst 2015 wächst der Druck auf die Grenzen. Österreichische Behörden bringen Ende Oktober an einem Tag allein 2.000 Geflüchtete an die Grenze - wo sie von der bayerischen Polizei in Empfang genommen werden. In der niederbayerischen Gemeinde Wegscheid entsteht dabei das berühmte Foto mit einer langen Schlange von Geflüchteten hinter einem Polizeiwagen.
+Im Herbst 2015 wächst der Druck auf die Grenzen. Österreichische Behörden bringen Ende Oktober an einem Tag mehr 1.000 Geflüchtete an die Grenze - wo sie von der bayerischen Polizei in Empfang genommen werden. In der niederbayerischen Gemeinde Wegscheid entsteht dabei das bekannte Foto mit einer langen Schlange von Geflüchteten hinter einem Polizeiwagen.
 
 Die Aufnahme der Geflüchteten stellt viele Kommunen in Deutschland vor Probleme. Aufnahmeplätze müssen gefunden werden, Turnhallen werden freigeräumt und auch der Prozess der Registrierung der Geflüchteten gestaltet sich anfangs schwierig.
 
 <YDILine name="antraege" />
 
-Zum Stichtag 30. Juni 2019 lebten etwa 1,3 Millionen Menschen in Deutschland, die unter verschiedenen Voraussetzungen Schutz bekommen haben. Etwa 20 Prozent von ihnen lebt bereits seit mindestens sechs Jahren in Deutschland. Rund ein Drittel sind Minderjährige.
+Zum Stichtag 30. Juni 2019 lebten etwa 1,3 Millionen Menschen in Deutschland, die unter verschiedenen Voraussetzungen Schutz bekommen haben. Etwa 20 Prozent von ihnen leben bereits seit mindestens sechs Jahren in Deutschland. Rund ein Drittel sind Minderjährige.
 
 <YDILine name="schutzbeduerfnis" />
 
@@ -115,7 +115,7 @@ Zum Stichtag 30. Juni 2019 lebten etwa 1,3 Millionen Menschen in Deutschland, di
 <figcaption style="text-align: end;"> </figcaption>
 </figure>
 
-Vor allem in Ostdeutschland formiert sich 2015 und 2016 Widerstand gegen die Aufnahme von Geflüchteten. Das bekamen unter anderem die Menschen zu spüren, die am 18. Februar 2016 in Clausnitz im Erzgebirge ankamen. An der Flüchtlingsunterkunft wurden sie von Protestierenden erwartet.
+In Deutschland formiert sich 2015 und 2016 Widerstand gegen die Aufnahme von Geflüchteten. Das bekamen unter anderem die Menschen zu spüren, die am 18. Februar 2016 in Clausnitz im Erzgebirge ankamen. An der Flüchtlingsunterkunft wurden sie von Protestierenden erwartet.
 
 Die Unterbringung der Geflüchteten war 2015/16 vor allem für die Kommunen eine große Herausforderung. Die Verteilung auf die einzelnen Bundesländer orientiert sich auch heute am sogenannten Königssteiner Schlüssel. Je nach Größe und Wirtschaftskraft des Landes werden die Geflüchteten-Kontingente auf die Länder verteilt. NRW liegt 2019 demnach bei 21,1 Prozent, Bayern bei 15,6 Prozent. Sachsen erhält fünf Prozent, Thüringen 2,6 Prozent.
 
