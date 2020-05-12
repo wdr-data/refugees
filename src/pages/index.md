@@ -127,8 +127,6 @@ Der Ablauf der Unterbringung ist geregelt. Asylsuchende werden zunächst in eine
 
 Auch hier gibt es deutliche Unterschiede zwischen den einzelnen Bundesländern.
 
-### Unterbringung von Geflüchteten
-
 <figure role="group">
    <DataWrapper
         alt="Der Anteil der Geflüchteten, die in Aufnahmeeinrichtungen, Gemeinschaftsunterkünften oder in dezentralen Einrichtungen leben, schwankt je nach Bundesland. Der höchste Anteil in Aufnahmeeinrichtungen hat Hamburg mit 22 Prozent, am niedrigsten ist der Wert in Bremen mit 0,4 Prozent. In fünf Ländern (Brandenburg, Hessen, Mecklenburg-Vorpommern, Saarland und Sachsen) lebt mehr als die Hälfte der Geflüchteten in Gemeinschaftsunterkünften. Den höchsten Wert bei der dezentralen Unterbringung hat Schleswig-Holstein mit 83 Prozent."
