@@ -43,7 +43,7 @@ Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den P
 
 
 <figure role="group">
-<img src=„2.jpg" alt=„Toter Junge am Strand" />
+<img src="2.jpg" alt="Toter Junge am Strand" />
 <figcaption style="text-align: end;"> </figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ Realität ist auch, dass heute noch Tausende Flüchtlinge versuchen, über das M
 Viele Menschen engagieren sich im Herbst 2015 in der Flüchtlingshilfe. Eine davon ist Nicole Kopp aus München, die 2015 am Münchener Hauptbahnhof Teddybären an Flüchtlingskinder verteilt. Die seinen froh gewesen, dass da jemand gewesen ist, der ihnen eine Freude gemacht habe, erinnert sich Nicole Kopp.
 
 <figure role="group">
-<img src=„3.jpg" alt=„Frau verteilt Stofftiere an Kinder" />
+<img src="3.jpg" alt="Frau verteilt Stofftiere an Kinder" />
 <figcaption style="text-align: end;"> </figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Heute werden Helferinnen und Helfer wie sie im Internet teils spöttisch als „
 ### „Wir schaffen das“ – Selfie mit der Kanzlerin
 
 <figure role="group">
-<img src=„4.jpg" alt=„Angela Merkel und Anas Modemanin machen ein Selfie" />
+<img src="4.jpg" alt="Angela Merkel und Anas Modemanin machen ein Selfie" />
 <figcaption style="text-align: end;"> </figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Diesen Trend zeigen auch Zahlen des Bundesamts für Migration. Je länger Geflü
 ### Wegscheid - Kapazitäten an der Grenze
 
 <figure role="group">
-<img src=„5.jpg" alt=„Geflüchtete hinter einem Polizeiwagen" />
+<img src="5.jpg" alt="Geflüchtete hinter einem Polizeiwagen" />
 <figcaption style="text-align: end;"> </figcaption>
 </figure>
 
