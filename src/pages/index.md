@@ -128,7 +128,11 @@ Auch hier gibt es deutliche Unterschiede zwischen den einzelnen Bundesländern.
 ### Unterbringung von Geflüchteten
 
 <figure role="group">
-    <iframe title="Unterbringung von Geflüchteten" aria-label="Tab-Übersicht: Unterbringung von Geflüchteten" src="https://data.wdr.de/ddj/data-tabs/view?title=Aufnahmeeinrichtung&url=https%3A%2F%2Fdatawrapper.dwcdn.net%2FuMQnY%2F7%2F&frameTitle=Aufnahmeeinrichtung&ariaLabel=Balken&title=Gemeinschaftsunterkunft&url=https%3A%2F%2Fdatawrapper.dwcdn.net%2Fu9Yu9%2F5%2F&frameTitle=Gemeinschaftsunterkunft&ariaLabel=Balken&title=dezentrale+Unterkunft&url=https%3A%2F%2Fdatawrapper.dwcdn.net%2FPmKA4%2F6%2F&frameTitle=Dezentrale+Unterbringung&ariaLabel=Balken" scrolling="no" frameborder="0" width="100%" style="border: none;" height="780"></iframe>
+   <DataWrapper
+        alt="Der Anteil der Geflüchteten, die in Aufnahmeeinrichtungen, Gemeinschaftsunterkünften oder in dezentralen Einrichtungen leben, schwankt je nach Bundesland. Der höchste Anteil in Aufnahmeeinrichtungen hat Hamburg mit 22 Prozent, am niedrigsten ist der Wert in Bremen mit 0,4 Prozent. In fünf Ländern (Brandenburg, Hessen, Mecklenburg-Vorpommern, Saarland und Sachsen) lebt mehr als die Hälfte der Geflüchteten in Gemeinschaftsunterkünften. Den höchsten Wert bei der dezentralen Unterbringung hat Schleswig-Holstein mit 83 Prozent."
+        title="Unterbringung von Geflüchteten"
+        src="//datawrapper.dwcdn.net/JebLk/1/"
+    />
 </figure>
 
 <Sharing twitter facebook mail telegram/>
