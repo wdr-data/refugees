@@ -31,7 +31,7 @@ import YDILine from '../components/ydi/ydiLine.jsx'
 
 Über Geflüchtete wurde viel geschrieben, man erinnert sich an ikonische Bilder. Bamdad Esmaili und Matthias Fuchs haben sich die Geschichten hinter den Bildern angeschaut.
 
-LINK VIDEO
+(Mehr Informationen zum Film auf der Webseite von "die story")[https://www1.wdr.de/fernsehen/die-story/index.html]
 
 Die Bilder dienen als roter Faden, zeigen die Emotionen. Die Zahlen bieten die Chance auf einen unverstellten Rückblick. Was ist „gefühlte“ Wahrheit und was steht wirklich in den Statistiken?
 
