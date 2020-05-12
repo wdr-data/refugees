@@ -22,6 +22,8 @@ import Sharing from '../components/sharing/sharing.jsx'
 import WdrPlayer from '../components/video/video.jsx'
 import YDIBar from '../components/ydi/ydiBar.jsx'
 import YDILine from '../components/ydi/ydiLine.jsx'
+import TabbedView from '../components/data-tabs/TabbedView.jsx'
+import { Link, LinkList } from '../components/link/link.jsx'
 
 ## Fünf Jahre nach "Wir schaffen das"
 
