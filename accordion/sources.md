@@ -1,6 +1,6 @@
 ### Daten
 
-- Kinder und Fluchtrouten: [Flüchtlingswerk der Vereinten Nationen (UNHCR)](https://data2.unhcr.org/api/population/get/demography/simplified?export=csv&widget_id=166991&sv_id=11&population_group=4799&fromDate=0200-01-01)
+- Kinder und Fluchtrouten: [Flüchtlingswerk der Vereinten Nationen (UNHCR)](https://data2.unhcr.org/en/situations/mediterranean)
 
 - Arbeit: [Bundesagentur für Arbeit](https://statistik.arbeitsagentur.de/Statischer-Content/Statistische-Analysen/Statistische-Sonderberichte/Generische-Publikationen/Auswirkungen-der-Migration-auf-den-Arbeitsmarkt.pdf)
 
