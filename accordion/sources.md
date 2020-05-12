@@ -13,4 +13,4 @@
 
 ### Code
 
-- Der Code des Data Starters steht OpenSource zur Verfügung: [WDR Data Starter](https://github.com/wdr-data/starter/
+- Der Code des Data Starters steht OpenSource zur Verfügung: (WDR Data Starter)[https://github.com/wdr-data/starter/]
