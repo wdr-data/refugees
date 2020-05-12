@@ -8,7 +8,7 @@
 
 ### Credits
 
-- **Redaktion:** Nicole Ripperda
+- **Redaktion:** Nicole Ripperda und Isabell Schayani
 - **Design:** Chrissi Holderbaum, Dilek Wache
 - **Programmierung:** Jannes Höke, Patricia Ennenbach
 - **Accessability, UX:** Dilek Wache
