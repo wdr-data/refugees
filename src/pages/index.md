@@ -33,7 +33,7 @@ import { Link, LinkList } from '../components/link/link.jsx'
 
 Über Geflüchtete wurde viel geschrieben, man erinnert sich an ikonische Bilder. Bamdad Esmaili und Matthias Fuchs haben sich die Geschichten hinter den Bildern angeschaut.
 
-<Link title="Mehr Informationen zum Film auf der Webseite von 'die story'" href="https://www1.wdr.de/fernsehen/die-story/index.html" />
+<Link title="Das tote Kind am Strand: Bilder der Flüchtlingskrise (video)" href="https://www1.wdr.de/mediathek/video/sendungen/die-story/video-das-tote-kind-am-strand-bilder-der-fluechtlingskrise-100.html" />
 
 Die Bilder dienen als roter Faden, zeigen die Emotionen. Die Zahlen bieten die Chance auf einen unverstellten Rückblick. Was ist „gefühlte“ Wahrheit und was steht wirklich in den Statistiken?
 
