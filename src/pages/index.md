@@ -100,7 +100,7 @@ Zum Stichtag 30. Juni 2019 lebten etwa 1,3 Millionen Menschen in Deutschland, di
 
 ### Clausnitz - Ankunft in der Flüchtlingsunterkunft
 
-<WdrPlayer videoId="2165428 " videoPoster="6.jpg" />
+<WdrPlayer videoId="2165428" videoPoster="6.jpg" />
 
 In Deutschland formiert sich 2015 und 2016 Widerstand gegen die Aufnahme von Geflüchteten. Das bekamen unter anderem die Menschen zu spüren, die am 18. Februar 2016 in Clausnitz im Erzgebirge ankamen. An der Flüchtlingsunterkunft wurden sie von Protestierenden erwartet.
 
