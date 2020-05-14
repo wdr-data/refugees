@@ -42,10 +42,7 @@ Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den P
 ### Alan Kurdi - der tote Junge am Strand
 
 
-<figure role="group">
-<img src="2.jpg" alt="Toter Junge am Strand" />
-<figcaption style="text-align: end;"> </figcaption>
-</figure>
+<WdrPlayer videoId="2165364" videoPoster="2.jpg" />
 
 Das Bild von Alan Kurdi entstand am 2. September 2015. Die Leiche des Jungen liegt am Strand von Akyarlar an der türkischen Küste. Außer Alan sterben sein Bruder Ghalib und seine Mutter Rehanna, als ihr Schlauchboot auf dem Weg zur griechischen Insel Kos kentert. Alans Vater Abdullah hatte Schleppern 4.000 Euro für die Überfahrt bezahlt – nur er überlebt.
 
