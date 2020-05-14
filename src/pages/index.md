@@ -33,7 +33,7 @@ import { Link, LinkList } from '../components/link/link.jsx'
 
 Über Geflüchtete wurde viel geschrieben, man erinnert sich an ikonische Bilder. Bamdad Esmaili und Matthias Fuchs haben sich die Geschichten hinter den Bildern angeschaut.
 
-<Link title="Das tote Kind am Strand: Bilder der Flüchtlingskrise (video)" href="https://www1.wdr.de/mediathek/video/sendungen/die-story/video-das-tote-kind-am-strand-bilder-der-fluechtlingskrise-100.html" />
+<Link title="Video: Das tote Kind am Strand: Bilder der Flüchtlingskrise" href="https://www1.wdr.de/mediathek/video/sendungen/die-story/video-das-tote-kind-am-strand-bilder-der-fluechtlingskrise-100.html" />
 
 Die Bilder dienen als roter Faden, zeigen die Emotionen. Die Zahlen bieten die Chance auf einen unverstellten Rückblick. Was ist „gefühlte“ Wahrheit und was steht wirklich in den Statistiken?
 
@@ -62,12 +62,9 @@ Realität ist auch, dass heute noch Tausende Flüchtlinge versuchen, über das M
 
 ### Willkommen in Deutschland
 
-Viele Menschen engagieren sich im Herbst 2015 in der Flüchtlingshilfe. Eine davon ist Nicole Kopp aus München, die 2015 am Münchener Hauptbahnhof Teddybären an Flüchtlingskinder verteilt. Die seinen froh gewesen, dass da jemand gewesen ist, der ihnen eine Freude gemacht habe, erinnert sich Nicole Kopp.
+Viele Menschen engagieren sich im Herbst 2015 in der Flüchtlingshilfe. Eine davon ist Nicole Kopp aus München, die 2015 am Münchener Hauptbahnhof Teddybären an Flüchtlingskinder verteilt. Die seien froh gewesen, dass da jemand gewesen ist, der ihnen eine Freude gemacht habe, erinnert sich Nicole Kopp.
 
-<figure role="group">
-<img src="3.jpg" alt="Frau verteilt Stofftiere an Kinder" />
-<figcaption style="text-align: end;"> </figcaption>
-</figure>
+<WdrPlayer videoId="2165376" videoPoster="3.jpg" />
 
 Heute werden Helferinnen und Helfer wie sie im Internet teils spöttisch als „Bahnhofsklatscher“ bezeichnet. Sie sieht das anders. Mit ihrer Arbeit habe sie geholfen, eine neue Seite von Deutschland zu zeigen.
 
@@ -75,10 +72,7 @@ Heute werden Helferinnen und Helfer wie sie im Internet teils spöttisch als „
 
 ### „Wir schaffen das“ – Selfie mit der Kanzlerin
 
-<figure role="group">
-<img src="4.jpg" alt="Angela Merkel und Anas Modemanin machen ein Selfie" />
-<figcaption style="text-align: end;"> </figcaption>
-</figure>
+<WdrPlayer videoId="2165387" videoPoster="4.jpg" />
 
 Am 4. September 2015 werden Tausende Geflüchtete von Ungarn aus in Richtung Österreich weitergeleitet. Daraufhin fällt die Bundesregierung die Entscheidung, die Grenzen nicht zu schließen und die Menschen ins Land zu lassen.
 
@@ -92,10 +86,7 @@ Diesen Trend zeigen auch Zahlen des Bundesamts für Migration. Je länger Geflü
 
 ### Wegscheid - Kapazitäten an der Grenze
 
-<figure role="group">
-<img src="5.jpg" alt="Geflüchtete hinter einem Polizeiwagen" />
-<figcaption style="text-align: end;"> </figcaption>
-</figure>
+<WdrPlayer videoId="2165405" videoPoster="5.jpg" />
 
 Im Herbst 2015 wächst der Druck auf die Grenzen. Österreichische Behörden bringen Ende Oktober an einem Tag mehr 1.000 Geflüchtete an die Grenze - wo sie von der bayerischen Polizei in Empfang genommen werden. In der niederbayerischen Gemeinde Wegscheid entsteht dabei das bekannte Foto mit einer langen Schlange von Geflüchteten hinter einem Polizeiwagen.
 
@@ -109,10 +100,7 @@ Zum Stichtag 30. Juni 2019 lebten etwa 1,3 Millionen Menschen in Deutschland, di
 
 ### Clausnitz - Ankunft in der Flüchtlingsunterkunft
 
-<figure role="group">
-<img src="6.jpg" alt="Bus" />
-<figcaption style="text-align: end;"> </figcaption>
-</figure>
+<WdrPlayer videoId="2165428 " videoPoster="6.jpg" />
 
 In Deutschland formiert sich 2015 und 2016 Widerstand gegen die Aufnahme von Geflüchteten. Das bekamen unter anderem die Menschen zu spüren, die am 18. Februar 2016 in Clausnitz im Erzgebirge ankamen. An der Flüchtlingsunterkunft wurden sie von Protestierenden erwartet.
 
