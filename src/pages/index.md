@@ -2,7 +2,7 @@
 title: "Was schätzen Sie: Zahlen zu Geflüchteten in Deutschland"
 description: Fünf Jahre nach "Wir schaffen das" - Überprüfen sie ihre Annahmen über Geflüchtete in Deutschland
 author: Peter Schneider, Patricia Ennenbach
-pub_date: "2020-05-13"
+pub_date: "2020-08-26"
 heroImage: "1.jpg"
 heroAlt: "Collage aus 5 Bildern zum Thema Gefüchtete"
 heroCredit: "Collage WDR"
