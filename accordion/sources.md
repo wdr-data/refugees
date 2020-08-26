@@ -5,6 +5,7 @@
 - Arbeit: [Bundesagentur für Arbeit](https://statistik.arbeitsagentur.de/DE/Statischer-Content/Statistiken/Themen-im-Fokus/Migration/Generische-Publikationen/Arbeitsmarktintegration-schutzsuchende-Menschen-Rueckblick.pdf?__blob=publicationFile&v=4)
 
 - Asylanträge und Schutzquote: [Bundesamt für Migration und Flüchtlinge (BAMF)](https://www.bamf.de/SharedDocs/Anlagen/DE/Statistik/BundesamtinZahlen/bundesamt-in-zahlen-2019-asyl.html?view=renderPdfViewer&nn=284738)
+  [Bundesamt für Migration und Flüchtlinge (BAMF) - 2020](https://www.bamf.de/SharedDocs/Anlagen/DE/Statistik/SchluesselzahlenAsyl/flyer-schluesselzahlen-asyl-halbjahr-2020.pdf?__blob=publicationFile&v=3)
 
 - Unterbringung: [Statistisches Bundesamt](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Soziales/Asylbewerberleistungen/Tabellen/liste-emfaenger-bl.html)
 

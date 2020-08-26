@@ -25,9 +25,9 @@ import YDILine from '../components/ydi/ydiLine.jsx'
 import TabbedView from '../components/data-tabs/TabbedView.jsx'
 import { Link, LinkList } from '../components/link/link.jsx'
 
-## Fünf Jahre nach "Wir schaffen das"
+## „Wir schaffen das“ – Fünf Jahre danach
 
-# Was schätzen Sie: Zahlen zu Geflüchteten in Deutschland
+# Die Bilder der Flüchtlingskrise
 
 **Fünf Jahre nach „Wir schaffen das“ – dem mittlerweile geflügelten Wort von Bundeskanzlerin Angela Merkel. Fünf Bilder, die für die so genannte Flüchtlingskrise in Deutschland stehen. Fünf Schlaglichter, hinter denen spannende Geschichten und Menschen stecken.**
 
@@ -36,6 +36,10 @@ import { Link, LinkList } from '../components/link/link.jsx'
 <Link title="Video: Das tote Kind am Strand: Bilder der Flüchtlingskrise" href="https://www1.wdr.de/mediathek/video/sendungen/die-story/video-das-tote-kind-am-strand-bilder-der-fluechtlingskrise-100.html" />
 
 Die Bilder dienen als roter Faden, zeigen die Emotionen. Die Zahlen bieten die Chance auf einen unverstellten Rückblick. Was ist „gefühlte“ Wahrheit und was steht wirklich in den Statistiken?
+
+### Was schätzen Sie?
+
+#### Überprüfen sie ihre Annahmen über Geflüchtete in Deutschland
 
 Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. Ziehen Sie mit der Maus oder dem Finger die Balken und Linien so, wie sie die jeweiligen Zahlen einschätzen. Mit einem Klick auf "Wie ist's tatsächlich?" erhalten Sie das Ergebnis.
 
