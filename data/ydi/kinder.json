@@ -1,9 +1,9 @@
 {
   "key": "kinder",
   "heading": "Was schätzen Sie: Wie hoch war der Anteil an Kindern unter den Geflüchteten?",
-  "subheading": "Bis zum 31.3.2020 kamen in diesem Jahr über den Seeweg 16.187 Geflüchtete nach Europa. Wie hoch war der Anteil an Kindern?",
-  "result": "Nach Angaben des UN-Flüchtlingshilfswerk UNHCR waren 25,1 Prozent aller Geflüchteten, die vom 1.1. bis 31.3. 2020 über das Mittelmeer nach Europa kamen Kinder. Der Anteil der Frauen lag bei 16,2 Prozent, 58,8 Prozent waren Männer.",
-  "accessibility": "25,1 Prozent aller Geflüchteten in den ersten drei Monaten 2020 waren Kinder.",
+  "subheading": "Bis zum 10.08.2020 kamen in diesem Jahr über den Seeweg 39.830 Geflüchtete nach Europa. Wie hoch war der Anteil an Kindern?",
+  "result": "Nach Angaben des UN-Flüchtlingshilfswerk UNHCR waren 25,2 Prozent aller Geflüchteten, die vom 1.1. bis 10.8.2020 über das Mittelmeer nach Europa kamen, Kinder. Der Anteil der Frauen lag bei 16,3 Prozent, 58,5 Prozent waren Männer.",
+  "accessibility": "25,2 Prozent aller Geflüchteten in den ersten drei Monaten 2020 waren Kinder.",
   "source": {
     "url": "https://data2.unhcr.org/en/situations/mediterranean",
     "title": "UNHCR"
@@ -11,7 +11,7 @@
   "knownData": [],
   "unknownData": {
     "label": "Anteil an Kindern",
-    "value": 25.1
+    "value": 25.2
   },
   "maxY": 100,
   "initialGuess": 20,

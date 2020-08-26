@@ -29,7 +29,7 @@ import { Link, LinkList } from '../components/link/link.jsx'
 
 # Was schätzen Sie: Zahlen zu Geflüchteten in Deutschland
 
-**Fünf Bilder, die für die so genannte Flüchtlingskrise in Deutschland stehen. Fünf Schlaglichter, hinter denen spannende Geschichten und Menschen stecken. Und fünf Jahre nach „Wir schaffen das“ – dem mittlerweile geflügelten Wort von Bundeskanzlerin Angela Merkel.**
+**Fünf Jahre nach „Wir schaffen das“ – dem mittlerweile geflügelten Wort von Bundeskanzlerin Angela Merkel. Fünf Bilder, die für die so genannte Flüchtlingskrise in Deutschland stehen. Fünf Schlaglichter, hinter denen spannende Geschichten und Menschen stecken.**
 
 Über Geflüchtete wurde viel geschrieben, man erinnert sich an ikonische Bilder. Bamdad Esmaili und Matthias Fuchs haben sich die Geschichten hinter den Bildern angeschaut.
 
@@ -37,20 +37,19 @@ import { Link, LinkList } from '../components/link/link.jsx'
 
 Die Bilder dienen als roter Faden, zeigen die Emotionen. Die Zahlen bieten die Chance auf einen unverstellten Rückblick. Was ist „gefühlte“ Wahrheit und was steht wirklich in den Statistiken?
 
-Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. Ziehen Sie einfach mit der Maus oder dem Finger die Balken und Linien so, wie sie die jeweiligen Zahlen einschätzen. Mit einem Klick auf "Wie ist's tatsächlich?" erhalten Sie das Ergebnis.
+Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. Ziehen Sie mit der Maus oder dem Finger die Balken und Linien so, wie sie die jeweiligen Zahlen einschätzen. Mit einem Klick auf "Wie ist's tatsächlich?" erhalten Sie das Ergebnis.
 
 ### Alan Kurdi - der tote Junge am Strand
-
 
 <WdrPlayer videoId="2165364" videoPoster="2.jpg" />
 
 Das Bild von Alan Kurdi entstand am 2. September 2015. Die Leiche des Jungen liegt am Strand von Akyarlar an der türkischen Küste. Außer Alan sterben sein Bruder Ghalib und seine Mutter Rehanna, als ihr Schlauchboot auf dem Weg zur griechischen Insel Kos kentert. Alans Vater Abdullah hatte Schleppern 4.000 Euro für die Überfahrt bezahlt – nur er überlebt.
 
-Im Jahr 2015 zählte das Flüchtlingswerk der Vereinen Nationen insgesamt 3.771 Tote, ein Jahr später waren es sogar mehr als 5000. Die Tragödie um Alan Kurdi sorgte im September 2015 dafür, dass die Flüchtlingskrise plötzlich nicht mehr abstrakt ist, sondern sehr real.
+Im Jahr 2015 zählte das Flüchtlingswerk der Vereinen Nationen insgesamt 3.771 Tote, ein Jahr später waren es sogar mehr als 5000. Die Tragödie um Alan Kurdi sorgte im September 2015 dafür, dass die Flüchtlingskrise plötzlich nicht mehr abstrakt war, sondern sehr real.
 
 <YDIBar name="kinder"/>
 
-Realität ist auch, dass heute noch Tausende Flüchtlinge versuchen, über das Mittelmeer nach Europa zu kommen. Auch Kinder. Bei diesen Versuchen sterben auch heute immer wieder Menschen.
+Realität ist auch, dass heute noch Tausende Flüchtlinge versuchen, über das Mittelmeer nach Europa zu kommen. Auch Kinder. Bei diesen Versuchen sind nach Schätzungen des UNHCR in diesem Jahr 443 Menschen gestorben.
 
 <figure role="group">
     <DataWrapper
